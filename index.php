@@ -4,7 +4,7 @@
 
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-<title>Home - Unisco - Education Website Template for University, College, School</title>
+<title>Home - Boosted Academy</title>
 
 <script src="../../cdn-cgi/apps/head/OkbNSnEV_PNHTKP2_EYPrFNyZ8Q.js"></script><link rel="stylesheet" href="css/bootstrap.min.css">
 
@@ -38,22 +38,22 @@
 <div class="collapse navbar-collapse" id="navbarNavDropdown">
 <ul class="navbar-nav">
 <li class="nav-item">
-<a class="nav-link" href="about.html">About<span class="sr-only">(current)</span></a>
+<a class="nav-link" href="about.php">About<span class="sr-only">(current)</span></a>
 </li>
 <li class="nav-item">
-<a class="nav-link" href="admission-form.html">Admissions</a>
+<a class="nav-link" href="admission-form.php">Admissions</a>
 </li>
 
 <li class="nav-logo">
-<a href="index.html#" class="navbar-brand"><img src="images/academy.png" height="200px" width="200px" class="img-fluid" alt="logo"></a>
+<a href="index.php" class="navbar-brand"><img src="images/academy.png" height="200px" width="200px" class="img-fluid" alt="logo"></a>
 </li>
 
 
 <li class="nav-item">
-<a class="nav-link" href="courses.html">Courses</a>
+<a class="nav-link" href="courses.php">Courses</a>
 </li>
 <li class="nav-item">
-<a class="nav-link" href="contact.html">Contact</a>
+<a class="nav-link" href="contact.php">Contact</a>
 </li>
 </ul>
 </div>
@@ -70,43 +70,32 @@
 </ol>
 <div class="carousel-inner" role="listbox">
 <div class="carousel-item active">
-<img class="d-block" src="images/slider.jpg" alt="First slide">
+<img class="d-block" src="images/slider_academy.jpg" alt="First slide">
 <div class="carousel-caption d-md-block">
 <div class="slider_title">
 <h1>Creative Thinking &amp; Innovation</h1>
-<h4>Proactively utilize open-source users for process-centric total linkage.<br> Energistically reinvent web-enabled initiatives with premium <br>processes. Proactively drive.</h4>
+<
 <div class="slider-btn">
-<a href="index.html#" class="btn btn-default">SEE Programs</a>
-<a href="index.html#" class="btn btn-default">Learn more</a>
+<a href="courses.php" class="btn btn-default">SEE Programs</a>
+
 </div>
 </div>
 </div>
 </div>
 <div class="carousel-item">
-<img class="d-block" src="images/slider-2.jpg" alt="Second slide">
+<img class="d-block" src="images/slider_academy1.jpg" alt="Second slide">
 <div class="carousel-caption d-md-block">
 <div class="slider_title">
 <h1>We foster wisdom</h1>
-<h4>Proactively utilize open-source users for process-centric total linkage.<br> Energistically reinvent web-enabled initiatives with premium <br>processes. Proactively drive.</h4>
+
 <div class="slider-btn">
-<a href="index.html#" class="btn btn-default">SEE Programs</a>
-<a href="index.html#" class="btn btn-default">Learn more</a>
+<a href="courses.php" class="btn btn-default">SEE Programs</a>
+
 </div>
 </div>
 </div>
 </div>
-<div class="carousel-item">
-<img class="d-block" src="images/slider-3.jpg" alt="Third slide">
-<div class="carousel-caption d-md-block">
-<div class="slider_title">
-<h1>Campus life @ Unisco</h1>
-<h4>Proactively utilize open-source users for process-centric total linkage.<br> Energistically reinvent web-enabled initiatives with premium <br>processes. Proactively drive.</h4>
-<div class="slider-btn">
-<a href="campus-life.html" class="btn btn-default">Campus Life</a>
-</div>
-</div>
-</div>
-</div>
+
 </div>
 <a class="carousel-control-prev" href="index.html#carousel" role="button" data-slide="prev">
 <i class="icon-arrow-left fa-slider" aria-hidden="true"></i>
@@ -151,11 +140,11 @@
 <div class="col-xs-12 col-sm-6 col-md-6 col-lg-3">
 <div class="courses_box mb-5">
 <div class="course-img-wrap">
-<img src="images/courses_1.jpg" class="img-fluid" alt="courses-img">
+<img src="images/admission/boosted.jpg" class="img-fluid" alt="courses-img">
 <div class="courses_box-img">
 <div class="courses-link-wrap">
-<a href="course-detail.html" class="course-link"><span>course Details </span></a>
-<a href="admission-form.html" class="course-link"><span>Join today </span></a>
+<!-- <a href="course-detail.html" class="course-link"><span>course Details </span></a> -->
+<a href="admission-form.php" class="course-link"><span>Join today </span></a>
 </div>
 
 </div>
@@ -164,20 +153,20 @@
 <div class="courses_icon">
 <img src="images/plus-icon.png" class="img-fluid close-icon" alt="plus-icon">
 </div>
-<a href="course-detail.html" class="course-box-content">
-<h3>Biochemistry</h3>
-<p>When an unknown printer took a galley...</p>
+<a href="#" class="course-box-content">
+<h3>Database Admin</h3>
+<p>Redis, MYSQL, Oracle...</p>
  </a>
 </div>
 </div>
 <div class="col-xs-12 col-sm-6 col-md-6 col-lg-3">
 <div class="courses_box mb-5">
 <div class="course-img-wrap">
-<img src="images/courses_2.jpg" class="img-fluid" alt="courses-img">
+<img src="images/admission/boosted.jpg" class="img-fluid" alt="courses-img">
 <div class="courses_box-img">
 <div class="courses-link-wrap">
-<a href="course-detail.html" class="course-link"><span>course Details </span></a>
-<a href="admission-form.html" class="course-link"><span>Join today </span></a>
+<!-- <a href="course-detail.html" class="course-link"><span>course Details </span></a> -->
+<a href="admission-form.php" class="course-link"><span>Join today </span></a>
 </div>
 
 </div>
@@ -186,20 +175,20 @@
 <div class="courses_icon">
 <img src="images/plus-icon.png" class="img-fluid close-icon" alt="plus-icon">
 </div>
-<a href="course-detail.html" class="course-box-content">
-<h3>History</h3>
-<p>When an unknown printer took a galley...</p>
+<a href="#" class="course-box-content">
+<h3>Web development</h3>
+<p>PHP, Javascript, MYSQL...</p>
 </a>
 </div>
 </div>
 <div class="col-xs-12 col-sm-6 col-md-6 col-lg-3">
 <div class="courses_box mb-5">
 <div class="course-img-wrap">
-<img src="images/courses_3.jpg" class="img-fluid" alt="courses-img">
+<img src="images/admission/boosted.jpg" class="img-fluid" alt="courses-img">
 <div class="courses_box-img">
 <div class="courses-link-wrap">
-<a href="course-detail.html" class="course-link"><span>course Details </span></a>
-<a href="admission-form.html" class="course-link"><span>Join today </span></a>
+<!-- <a href="course-detail.html" class="course-link"><span>course Details </span></a> -->
+<a href="admission-form.php" class="course-link"><span>Join today </span></a>
 </div>
 
 </div>
@@ -209,19 +198,19 @@
 <img src="images/plus-icon.png" class="img-fluid close-icon" alt="plus-icon">
 </div>
 <a href="course-detail.html" class="course-box-content">
-<h3>Human Sciences</h3>
-<p>When an unknown printer took a galley...</p>
+<h3>Internship</h3>
+<p>Obtain skills today...</p>
 </a>
 </div>
 </div>
 <div class="col-xs-12 col-sm-6 col-md-6 col-lg-3">
 <div class="courses_box mb-5">
 <div class="course-img-wrap">
-<img src="images/courses_4.jpg" class="img-fluid" alt="courses-img">
+<img src="images/admission/boosted.jpg" class="img-fluid" alt="courses-img">
 <div class="courses_box-img">
 <div class="courses-link-wrap">
-<a href="course-detail.html" class="course-link"><span>course Details </span></a>
-<a href="admission-form.html" class="course-link"><span>Join today </span></a>
+<!-- <a href="course-detail.html" class="course-link"><span>course Details </span></a> -->
+<a href="admission-form.php" class="course-link"><span>Join today </span></a>
 </div>
 
 </div>
@@ -230,16 +219,16 @@
 <div class="courses_icon">
 <img src="images/plus-icon.png" class="img-fluid close-icon" alt="plus-icon">
 </div>
-<a href="course-detail.html" class="course-box-content">
-<h3>Earth Sciences</h3>
-<p>When an unknown printer took a galley...</p>
+<a href="#" class="course-box-content">
+<h3>IT Essentials</h3>
+<p>Microsoft pakages...</p>
 </a>
 </div>
  </div>
 </div>
 <div class="row">
 <div class="col-md-12 text-center">
-<a href="index.html#" class="btn btn-default btn-courses">View all courses</a>
+<a href="courses.php" class="btn btn-default btn-courses">View all courses</a>
 </div>
 </div>
 </div>
@@ -344,7 +333,7 @@
 </div>
 </section>
 
-
+<!-- 
 <div class="detailed_chart">
 <div class="container">
 <div class="row">
@@ -386,7 +375,7 @@
 </div>
 </div>
 </div>
-
+ -->
 
 
 <div id="instafeed"></div>
@@ -421,11 +410,11 @@
 <div class="sitemap">
 <h3>Navigation</h3>
 <ul>
-<li><a href="about.html">About</a></li>
-<li><a href="admission-form.html">Admissions </a></li>
-<li><a href="https://demo.web3canvas.com/themeforest/unisco/admission.html">Academics</a></li>
+<li><a href="about.php">About</a></li>
+<li><a href="admission-form.php">Admissions </a></li>
+<li><a href="courses.php">Academics</a></li>
 
-<li><a href="contact.html">Contact</a></li>
+<li><a href="contact.php">Contact</a></li>
 </ul>
 </div>
 </div>
@@ -442,8 +431,8 @@
 <div class="address">
 <h3>Contact us</h3>
 <p><span>Address: </span> Unisco university Albany, NY, USA. 11001</p>
-<p>Email : <a href="https://demo.web3canvas.com/cdn-cgi/l/email-protection" class="__cf_email__" data-cfemail="83eaede5ecc3f6edeaf0e0ecade0ecee">[email&#160;protected]</a>
-<br> Phone : +91 555 668 986</p>
+<p>Email : <a href="mailto:office@boostedtechs.com" class="">office@boostedtechs.com</a>
+<br> Phone : +256 707064552</p>
 <ul class="footer-social-icons">
 <li><a href="index.html#"><i class="fa fa-facebook fa-fb" aria-hidden="true"></i></a></li>
 <li><a href="index.html#"><i class="fa fa-linkedin fa-in" aria-hidden="true"></i></a></li>

@@ -4,7 +4,7 @@
 
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-<title>About - Unisco - Education Website Template for University, College, School</title>
+<title>About - Boosted Academy</title>
 
 <script src="../../cdn-cgi/apps/head/OkbNSnEV_PNHTKP2_EYPrFNyZ8Q.js"></script>
 <link rel="stylesheet" href="css/bootstrap.min.css">
@@ -39,20 +39,20 @@
 <div class="collapse navbar-collapse" id="navbarNavDropdown">
 <ul class="navbar-nav">
 <li class="nav-item">
-<a class="nav-link" href="about.html">About<span class="sr-only">(current)</span></a>
+<a class="nav-link" href="about.php">About<span class="sr-only">(current)</span></a>
 </li>
 <li class="nav-item">
-<a class="nav-link" href="admission-form.html">Admissions</a>
+<a class="nav-link" href="admission-form.php">Admissions</a>
 </li>
 
 <li class="nav-logo">
 <a href="index.html" class="navbar-brand"><img src="images/academy.png" height="200px" width="200px"  class="img-fluid" alt="logo"></a>
 </li>
 <li class="nav-item">
-    <a class="nav-link" href="courses.html">Courses</a>
+    <a class="nav-link" href="courses.php">Courses</a>
     </li>
 <li class="nav-item">
-<a class="nav-link" href="contact.html">Contact</a>
+<a class="nav-link" href="contact.php">Contact</a>
 </li>
 </ul>
 </div>
@@ -73,13 +73,15 @@
 <div class="row">
 <div class="col-md-7">
 <h2>What we are</h2>
-<p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries.
-<br>
-<br> It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages.</p>
-<a href="about.html#" class="btn btn-default btn-about">VIEW OUR COURSE</a>
+<p>Boosted Academy is run and managed by Boosted Technologies LTD<br>
+
+Our goal is to provide academic content fully packaged with market needed skills at affordable prices<br>
+
+Quality and affordability is what we stand for.</p>
+<a href="courses.html" class="btn btn-default btn-about">VIEW OUR COURSE</a>
 </div>
 <div class="col-md-5">
-<img src="images/welcome-img.jpg" class="img-fluid" alt="#">
+<img src="images/academy.png" class="img-fluid" alt="#">
 </div>
 </div>
 </div>
@@ -90,24 +92,25 @@
 <div class="container">
 <div class="row">
 <div class="col-md-12">
-<h2>Our Students Says</h2>
+<h2>Our Students Say</h2>
 </div>
 <div class="col-md-12">
 <div class="single-item">
 <div class="quote">
 <i class="fa fa-quote-left" aria-hidden="true"></i>
-<p class="quote_text">Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. Printing and typesetting industry. It has survived not only five centuries.</p>
+<p class="quote_text">With Boosted Academy, I gained expertize and experience in the field of networking and web design
+    which has positively impacted my life.</p>
 <div class="testi-img_block">
-<img src="images/testi-img.jpg" class="img-fluid" alt="#">
-<p><span>Student Name</span> Top rank holder</p>
+<img src="images/muts.png" class="img-fluid" alt="#">
+<p><span>Mutooro Martin</span> Jaslac Digital store</p>
 </div>
 </div>
 <div class="quote">
 <i class="fa fa-quote-left" aria-hidden="true"></i>
-<p class="quote_text">Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. Printing and typesetting industry. </p>
+<p class="quote_text">Boosted academy is the only place one can rely on for best handson skills with their experienced staff. </p>
 <div class="testi-img_block">
-<img src="images/testi-img.jpg" class="img-fluid" alt="#">
-<p><span>Student Name</span> Top rank holder</p>
+<img src="images/muto.jpg" class="img-fluid" alt="#">
+<p><span>Kiconco Precious</span> Makerere University</p>
 </div>
 </div>
 </div>
@@ -164,19 +167,19 @@
 <div class="container">
 <div class="row">
 <div class="col-md-12">
-<h2>Our Teachers</h2>
+<h2>Our staff</h2>
 </div>
 </div>
 <div class="row">
 <div class="col-xs-12 col-sm-6 col-md-6">
 <div class="our-teachers-block">
-<img src="images/our-teachers_01.jpg" class="img-fluid teachers-img" alt="#">
+<img src="images/tumusiime.jfif" class="img-fluid teachers-img" alt="#">
 <div class="teachers-description">
-<p><strong>Melissa Baker</strong>
-<br> MBA, PhD
+<p><strong>Tumusiime Ashan</strong>
+<br> HRM
 </p>
  <hr />
-<p>Syllabus : <span>Economics, Marketing &amp; Finance</span></p>
+<p>Syllabus : <span>Ethical hacking &amp; System Admin</span></p>
 <div class="social-icons">
 <ul>
 <li><a href="about.html#"><i class="fa fa-facebook" aria-hidden="true"></i></a></li>
@@ -189,13 +192,13 @@
 </div>
 <div class="col-xs-12 col-sm-6 col-md-6">
 <div class="our-teachers-block">
-<img src="images/our-teachers_02.jpg" class="img-fluid teachers-img" alt="#">
+<img src="images/gilbert.jpg" class="img-fluid teachers-img" alt="#">
 <div class="teachers-description">
-<p><strong>Raymond Salazar</strong>
-<br> MCA, PhD
+<p><strong>Mupanda Gilbert</strong>
+<br> CTO
 </p>
 <hr />
-<p> Syllabus : <span>Computer Science, Astronomy &amp; Robotics</span></p>
+<p> Syllabus : <span>Computer Science, Software design &amp; Graphics</span></p>
 <div class="social-icons">
 <ul>
 <li><a href="about.html#"><i class="fa fa-facebook" aria-hidden="true"></i></a></li>
@@ -208,13 +211,13 @@
 </div>
 <div class="col-xs-12 col-sm-6 col-md-6">
 <div class="our-teachers-block">
-<img src="images/our-teachers_03.jpg" class="img-fluid teachers-img" alt="#">
+<img src="images/jacentah.jpg" class="img-fluid teachers-img" alt="#">
 <div class="teachers-description">
-<p><strong>Alexander Bennett</strong>
-<br> PhD, Medical Sciences
+<p><strong>Kyaterekeya Jacentah</strong>
+<br> Marketing
 </p>
 <hr />
-<p> Syllabus : <span>Physics, Chemistry &amp; Biology</span></p>
+<p> Syllabus : <span>Computer Literacy &amp; Graphics</span></p>
 <div class="social-icons">
 <ul>
 <li><a href="about.html#"><i class="fa fa-facebook" aria-hidden="true"></i></a></li>
@@ -227,12 +230,12 @@
 </div>
 <div class="col-xs-12 col-sm-6 col-md-6">
 <div class="our-teachers-block">
-<img src="images/our-teachers_04.jpg" class="img-fluid teachers-img" alt="#">
+<img src="images/gilbert.jpg" class="img-fluid teachers-img" alt="#">
 <div class="teachers-description">
-<p><strong>Charles Murphy</strong>
-<br> MFA, PhD</p>
+<p><strong>Mupanda Gilbert</strong>
+<br> CTO</p>
 <hr />
-<p> Syllabus : <span> English, Language &amp; Arts</span></p>
+<p> Syllabus : <span> Computer Engineering &amp; Computer Literacy</span></p>
 <div class="social-icons">
 <ul>
 <li><a href="about.html#"><i class="fa fa-facebook" aria-hidden="true"></i></a></li>
@@ -273,7 +276,7 @@
 <a href="index.php">
 <img src="images/academy.png" height="100px" width="100px" class="img-fluid" alt="footer_logo">
 </a>
-<p>2016 © copyright
+<p>2023 © copyright
 <br> All rights reserved.</p>
 </div>
 </div>
@@ -284,7 +287,6 @@
 <li><a href="about.html">About</a></li>
 <li><a href="admission-form.html">Admissions </a></li>
 <li><a href="courses.html">Courses</a></li>
-<li><a href="research.html">Research</a></li>
 <li><a href="contact.html">Contact</a></li>
 </ul>
 </div>
@@ -301,9 +303,9 @@
 <div class="col-md-3">
 <div class="address">
 <h3>Contact us</h3>
-<p><span>Address: </span> Unisco university Albany, NY, USA. 11001</p>
-<p>Email : <a href="https://demo.web3canvas.com/cdn-cgi/l/email-protection" class="__cf_email__" data-cfemail="80e9eee6efc0f5eee9f3e3efaee3efed">[email&#160;protected]</a>
-<br> Phone : +91 555 668 986</p>
+<p><span>Address: </span>Bwaise - Kawempe. P.O Box 36904 </p>
+<p>Email : <a href="mailto:office@boostedtechs.com">office@boostedtechs.com</a>
+<br> Phone : +256 707064552</p>
 <ul class="footer-social-icons">
 <li><a href="about.html#"><i class="fa fa-facebook fa-fb" aria-hidden="true"></i></a></li>
 <li><a href="about.html#"><i class="fa fa-linkedin fa-in" aria-hidden="true"></i></a></li>

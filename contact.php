@@ -4,7 +4,7 @@
 
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-<title>Contact - Unisco - Education Website Template for University, College, School</title>
+<title>Contact - Boosted Academy</title>
 
 <script src="../../cdn-cgi/apps/head/OkbNSnEV_PNHTKP2_EYPrFNyZ8Q.js"></script>
 <link rel="stylesheet" href="css/bootstrap.min.css">
@@ -37,20 +37,20 @@
 <div class="collapse navbar-collapse" id="navbarNavDropdown">
 <ul class="navbar-nav">
 <li class="nav-item">
-<a class="nav-link" href="about.html">About<span class="sr-only">(current)</span></a>
+<a class="nav-link" href="about.php">About<span class="sr-only">(current)</span></a>
 </li>
 <li class="nav-item">
-<a class="nav-link" href="admission-form.html">Admissions</a>
+<a class="nav-link" href="admission-form.php">Admissions</a>
 </li>
 
 <li class="nav-logo">
-<a href="index.html" class="navbar-brand"><img src="images/academy.png" height="200px" width="200px" class="img-fluid" alt="logo"></a>
+<a href="index.php" class="navbar-brand"><img src="images/academy.png" height="200px" width="200px" class="img-fluid" alt="logo"></a>
 </li>
 <li class="nav-item">
-    <a class="nav-link" href="courses.html">Courses</a>
+    <a class="nav-link" href="courses.php">Courses</a>
     </li>
 <li class="nav-item">
-<a class="nav-link" href="contact.html">Contact</a>
+<a class="nav-link" href="contact.php">Contact</a>
 </li>
 </ul>
 </div>
@@ -110,23 +110,23 @@
 <div class="contact-details">
 <i class="fa fa-user" aria-hidden="true"></i>
 <h6>Address</h6>
-<p> Unisco university
-<br> Albany, NY
-<br> USA. 11001</p>
+<p> Boosted Academy
+<br> Bwaise - Kawempe
+<br> Kampala. 36904</p>
 </div>
 <br>
 <div class="contact-details">
 <i class="fa fa-envelope-o" aria-hidden="true"></i>
 <h6>Email</h6>
-<p><a href="https://demo.web3canvas.com/cdn-cgi/l/email-protection" class="__cf_email__" data-cfemail="caa3a4aca58abfa4a3b9a9a5e4afaebf">[email&#160;protected]</a>
-<br> <a href="https://demo.web3canvas.com/cdn-cgi/l/email-protection" class="__cf_email__" data-cfemail="ed8c89808483ad9883849e8e82c3888998">[email&#160;protected]</a>
+<p><a href="mailto:office@boostedtechs.com" style="color: wheat;">office@boostedtechs.com</a>
+<br> <a href="mailto:hr@boostedtechs.com" style="color: wheat;">hr@boostedtechs.com</a>
 </p>
 </div>
 <br>
 <div class="contact-details">
 <i class="fa fa-phone" aria-hidden="true"></i>
 <h6>phone</h6>
-<p>+91 555 668 986</p>
+<p>+256 707064552</p>
 </div>
 </div>
 </div>
@@ -179,8 +179,8 @@
 <ul>
 <li><a href="about.html">About</a></li>
 <li><a href="admission-form.html">Admissions </a></li>
-<li><a href="https://demo.web3canvas.com/themeforest/unisco/admission.html">Academics</a></li>
-<li><a href="research.html">Research</a></li>
+<li><a href="courses.html">Academics</a></li>
+
 <li><a href="contact.html">Contact</a></li>
 </ul>
 </div>
@@ -197,9 +197,9 @@
 <div class="col-md-3">
 <div class="address">
 <h3>Contact us</h3>
-<p><span>Address: </span> Unisco university, Albany, NY, USA. 11001</p>
-<p>Email : <a href="https://demo.web3canvas.com/cdn-cgi/l/email-protection" class="__cf_email__" data-cfemail="4c25222a230c3922253f2f23622f2321">[email&#160;protected]</a>
-<br> Phone : +91 555 668 986</p>
+<p><span>Address: </span> Bwaise - Kawempe. P.O Box 36904</p>
+<p>Email : <a href="mailto:office@boostedtechs.com" class="" >office@boostedtechs.com</a>
+<br> Phone : +256 707064552</p>
 <ul class="footer-social-icons">
 <li><a href="contact.html#"><i class="fa fa-facebook fa-fb" aria-hidden="true"></i></a></li>
 <li><a href="contact.html#"><i class="fa fa-linkedin fa-in" aria-hidden="true"></i></a></li>

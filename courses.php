@@ -37,20 +37,20 @@
 <div class="collapse navbar-collapse" id="navbarNavDropdown">
 <ul class="navbar-nav">
 <li class="nav-item">
-<a class="nav-link" href="about.html">About<span class="sr-only">(current)</span></a>
+<a class="nav-link" href="about.php">About<span class="sr-only">(current)</span></a>
 </li>
 <li class="nav-item">
-<a class="nav-link" href="admission-form.html">Admissions</a>
+<a class="nav-link" href="admission-form.php">Admissions</a>
 </li>
 
 <li class="nav-logo">
-<a href="index.html" class="navbar-brand"><img src="images/academy.png" height="200px" width="200px" class="img-fluid" alt="logo"></a>
+<a href="index.php" class="navbar-brand"><img src="images/academy.png" height="200px" width="200px" class="img-fluid" alt="logo"></a>
 </li>
 <li class="nav-item">
-    <a class="nav-link" href="courses.html">Courses</a>
+    <a class="nav-link" href="courses.php">Courses</a>
     </li>
 <li class="nav-item">
-<a class="nav-link" href="contact.html">Contact</a>
+<a class="nav-link" href="contact.php">Contact</a>
 </li>
 </ul>
 </div>
@@ -71,62 +71,20 @@
 <div class="row text-center">
 <div class="col-md-12">
 <h2>Our Courses</h2>
-<p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled</p>
+<p>We offer courses designed to get you understand complex and relatively confusing topics throughout informative and 
+    interactive hot periodic discussions.
+</p>
 </div>
 </div>
-<!-- <div class="row">
-<div class="col-md-12">
-<div class="course_filter">
-<form>
-<div class="row">
-<div class="col-md-6 col-lg-3">
-<select class="form-control custom-select">
-<option selected>Select Course</option>
-<option value="1">Course One</option>
-<option value="2">Course Two</option>
-<option value="3">Course Three</option>
-</select>
-</div>
-<div class="col-md-6 col-lg-2">
-<select class="form-control custom-select">
-<option selected>Starts</option>
-<option value="1">in 3 months</option>
-<option value="2">in 6 months</option>
-<option value="3">more than 6 months</option>
-</select>
-</div>
-<div class="col-md-6 col-lg-2">
-<select class="form-control custom-select">
-<option selected>Length</option>
-<option value="1">Less than 1 year</option>
-<option value="2">1 - 3 years</option>
-<option value="3">3 years and above</option>
-</select>
-</div>
-<div class="col-md-6 col-lg-2">
-<select class="form-control custom-select">
-<option selected>Fee range</option>
-<option value="1">Less than $1000</option>
-<option value="2">$1000 to $3000</option>
-<option value="3">$3000 and above</option>
-</select>
-</div>
-<div class="col-md-12 col-lg-3">
-<button class="btn btn-block btn-admission">Search</button>
-</div>
-</div>
-</form>
-</div>
-</div>
-</div> -->
+
 <br>
 <br>
 <div class="row">
 <div class="col-md-6">
 <a href="course-detail.html" class="course_box">
-<img src="images/admission/our-cources_01.jpg" class="img-fluid" alt="#">
+<img src="images/admission/boosted.jpg" class="img-fluid" alt="#">
 <div class="couse-desc-wrap">
-<h4>Course Name</h4>
+<h4>Database Administration </h4>
 <div class="star-rating">
 <i class="fa fa-star" aria-hidden="true"></i>
 <i class="fa fa-star" aria-hidden="true"></i>
@@ -135,26 +93,26 @@
 <i class="fa fa-star-o" aria-hidden="true"></i>
 </div>
 
-<p>Lorem Ipsum is simply dummy text of the printing &amp; typesetting industry. Lorem Ipsum has.</p>
+<p>This covers the different database technologies &amp; managemnet systems in the industry.</p>
 </div>
 
 <div class="course_duration">
 <ul>
 <li>
-<p>Duration</p><span>1 Year</span></li>
+<p>Duration</p><span>4 months</span></li>
 <li>
-<p>Fee</p><span>$500</span></li>
+<p>Fee</p><span>Ugshs 400,000</span></li>
 <li>
-<p>Timing</p><span>10 am-2 pm</span></li>
+<p>Timing</p><span>Day and Afternoon</span></li>
 </ul>
 </div>
 </a>
 </div>
 <div class="col-md-6">
 <a href="course-detail.html" class="course_box">
-<img src="images/admission/our-cources_02.jpg" class="img-fluid" alt="#">
+<img src="images/admission/boosted.jpg" class="img-fluid" alt="#">
 <div class="couse-desc-wrap">
-<h4>Course Name</h4>
+<h4>System Design and Analysis</h4>
 <div class="star-rating">
 <i class="fa fa-star" aria-hidden="true"></i>
 <i class="fa fa-star" aria-hidden="true"></i>
@@ -163,26 +121,26 @@
 <i class="fa fa-star-o" aria-hidden="true"></i>
 </div>
 
-<p>Lorem Ipsum is simply dummy text of the printing &amp; typesetting industry. Lorem Ipsum has.</p>
+<p>Covers the basic and essentials of system Analysis &amp; fundamentals of system design.</p>
 </div>
 
 <div class="course_duration">
 <ul>
 <li>
-<p>Duration</p><span>1 Year</span></li>
+<p>Duration</p><span>6 months</span></li>
 <li>
-<p>Fee</p><span>$500</span></li>
+<p>Fee</p><span>Ugshs 500,000</span></li>
 <li>
-<p>Timing</p><span>10 am-2 pm</span></li>
+<p>Timing</p><span>Day and Afternoon</span></li>
 </ul>
 </div>
 </a>
 </div>
 <div class="col-md-6">
 <a href="course-detail.html" class="course_box">
-<img src="images/admission/our-cources_03.jpg" class="img-fluid" alt="#">
+<img src="images/admission/boosted.jpg" class="img-fluid" alt="#">
 <div class="couse-desc-wrap">
-<h4>Course Name</h4>
+<h4>Graphics Design</h4>
 <div class="star-rating">
 <i class="fa fa-star" aria-hidden="true"></i>
 <i class="fa fa-star" aria-hidden="true"></i>
@@ -191,26 +149,26 @@
 <i class="fa fa-star-o" aria-hidden="true"></i>
 </div>
 
-<p>Lorem Ipsum is simply dummy text of the printing &amp; typesetting industry. Lorem Ipsum has.</p>
+<p>Equips learner with the basic skills of producing artist designs &amp; impressive piece of work.</p>
 </div>
 
 <div class="course_duration">
 <ul>
 <li>
-<p>Duration</p><span>1 Year</span></li>
+<p>Duration</p><span>6 months</span></li>
 <li>
-<p>Fee</p><span>$500</span></li>
+<p>Fee</p><span>Ugsh 600,000</span></li>
 <li>
-<p>Timing</p><span>10 am-2 pm</span></li>
+<p>Timing</p><span>Day and Afternoon</span></li>
 </ul>
 </div>
 </a>
 </div>
 <div class="col-md-6">
 <a href="course-detail.html" class="course_box">
-<img src="images/admission/our-cources_04.jpg" class="img-fluid" alt="#">
+<img src="images/admission/intern.jpg" class="img-fluid" alt="#">
 <div class="couse-desc-wrap">
-<h4>Course Name</h4>
+<h4>Internship training</h4>
 <div class="star-rating">
 <i class="fa fa-star" aria-hidden="true"></i>
 <i class="fa fa-star" aria-hidden="true"></i>
@@ -219,26 +177,26 @@
 <i class="fa fa-star-o" aria-hidden="true"></i>
  </div>
 
-<p>Lorem Ipsum is simply dummy text of the printing &amp; typesetting industry. Lorem Ipsum has.</p>
+<p>This program equips trainees with necessary skills needed in the job market &amp; employment world</p>
 </div>
 
 <div class="course_duration">
 <ul>
 <li>
-<p>Duration</p><span>1 Year</span></li>
+<p>Duration</p><span>2 - 6 months</span></li>
 <li>
-<p>Fee</p><span>$500</span></li>
+<p>Fee</p><span>Ugshs 150,000</span></li>
 <li>
-<p>Timing</p><span>10 am-2 pm</span></li>
+<p>Timing</p><span>Day and Afternoon</span></li>
 </ul>
 </div>
 </a>
 </div>
 <div class="col-md-6">
 <a href="course-detail.html" class="course_box">
-<img src="images/admission/our-cources_05.jpg" class="img-fluid" alt="#">
+<img src="images/admission/boosted.jpg" class="img-fluid" alt="#">
 <div class="couse-desc-wrap">
-<h4>Course Name</h4>
+<h4>Software Engineering</h4>
 <div class="star-rating">
 <i class="fa fa-star" aria-hidden="true"></i>
 <i class="fa fa-star" aria-hidden="true"></i>
@@ -247,26 +205,26 @@
 <i class="fa fa-star-o" aria-hidden="true"></i>
 </div>
 
-<p>Lorem Ipsum is simply dummy text of the printing &amp; typesetting industry. Lorem Ipsum has.</p>
+<p>Develop softwares in technologies like C ,Kotlin &amp; Javascript. Gain best software engineering skills today!</p>
 </div>
 
 <div class="course_duration">
 <ul>
 <li>
-<p>Duration</p><span>1 Year</span></li>
+<p>Duration</p><span>3 - 6 months</span></li>
 <li>
-<p>Fee</p><span>$500</span></li>
+<p>Fee</p><span>Ugsh 600,000</span></li>
 <li>
-<p>Timing</p><span>10 am-2 pm</span></li>
+<p>Timing</p><span>Day and Afternoon</span></li>
  </ul>
 </div>
 </a>
 </div>
 <div class="col-md-6">
 <a href="course-detail.html" class="course_box">
-<img src="images/admission/our-cources_06.jpg" class="img-fluid" alt="#">
+<img src="images/admission/boosted.jpg" class="img-fluid" alt="#">
 <div class="couse-desc-wrap">
-<h4>Course Name</h4>
+<h4>Foundamentals of computer applications</h4>
 <div class="star-rating">
 <i class="fa fa-star" aria-hidden="true"></i>
 <i class="fa fa-star" aria-hidden="true"></i>
@@ -275,26 +233,26 @@
 <i class="fa fa-star-o" aria-hidden="true"></i>
 </div>
 
-<p>Lorem Ipsum is simply dummy text of the printing &amp; typesetting industry. Lorem Ipsum has.</p>
+<p>Be computer literate today and explore the best opportunities in the computing world today.</p>
 </div>
 
 <div class="course_duration">
 <ul>
 <li>
-<p>Duration</p><span>1 Year</span></li>
+<p>Duration</p><span>2 months</span></li>
 <li>
-<p>Fee</p><span>$500</span></li>
+<p>Fee</p><span>Ugsh 300,000</span></li>
 <li>
-<p>Timing</p><span>10 am-2 pm</span></li>
+<p>Timing</p><span>Day and Afternoon</span></li>
 </ul>
 </div>
 </a>
 </div>
 <div class="col-md-6">
 <a href="course-detail.html" class="course_box">
-<img src="images/admission/our-cources_07.jpg" class="img-fluid" alt="#">
+<img src="images/admission/boosted.jpg" class="img-fluid" alt="#">
 <div class="couse-desc-wrap">
-<h4>Course Name</h4>
+<h4>Web design</h4>
 <div class="star-rating">
 <i class="fa fa-star" aria-hidden="true"></i>
 <i class="fa fa-star" aria-hidden="true"></i>
@@ -303,26 +261,26 @@
 <i class="fa fa-star-o" aria-hidden="true"></i>
 </div>
 
-<p>Lorem Ipsum is simply dummy text of the printing &amp; typesetting industry. Lorem Ipsum has.</p>
+<p>Develop interactive web application with PHP, MYSQL  &amp; Redis.</p>
 </div>
 
 <div class="course_duration">
 <ul>
 <li>
-<p>Duration</p><span>1 Year</span></li>
+<p>Duration</p><span>4 months</span></li>
 <li>
-<p>Fee</p><span>$500</span></li>
+<p>Fee</p><span>Ugshs 500,000</span></li>
 <li>
-<p>Timing</p><span>10 am-2 pm</span></li>
+<p>Timing</p><span>Day and Afternoon</span></li>
 </ul>
 </div>
 </a>
 </div>
 <div class="col-md-6">
 <a href="course-detail.html" class="course_box">
-<img src="images/admission/our-cources_08.jpg" class="img-fluid" alt="#">
+<img src="images/admission/boosted.jpg" class="img-fluid" alt="#">
 <div class="couse-desc-wrap">
-<h4>Course Name</h4>
+<h4>Cyber secruity &amp; Ethical Hacking</h4>
 <div class="star-rating">
 <i class="fa fa-star" aria-hidden="true"></i>
  <i class="fa fa-star" aria-hidden="true"></i>
@@ -331,17 +289,17 @@
 <i class="fa fa-star-o" aria-hidden="true"></i>
 </div>
 
-<p>Lorem Ipsum is simply dummy text of the printing &amp; typesetting industry. Lorem Ipsum has.</p>
+<p>This course introduces learners to basics &amp; fundamentals of hacking &amp; penatration.</p>
 </div>
 
 <div class="course_duration">
 <ul>
 <li>
-<p>Duration</p><span>1 Year</span></li>
+<p>Duration</p><span>6 months</span></li>
 <li>
-<p>Fee</p><span>$500</span></li>
+<p>Fee</p><span>Ugsh 600,000</span></li>
 <li>
-<p>Timing</p><span>10 am-2 pm</span></li>
+<p>Timing</p><span>Day and Afternoon</span></li>
 </ul>
 </div>
 </a>
@@ -372,10 +330,10 @@
 <div class="row">
 <div class="col-md-3">
 <div class="foot-logo">
-<a href="index.html">
+<a href="index.php">
 <img src="images/academy.png" height="100px" width="100px" class="img-fluid" alt="footer_logo">
 </a>
-<p>2016 © copyright
+<p>2023 © copyright
 <br> All rights reserved.</p>
 </div>
 </div>
@@ -383,11 +341,11 @@
 <div class="sitemap">
 <h3>Navigation</h3>
 <ul>
- <li><a href="about.html">About</a></li>
-<li><a href="admission-form.html">Admissions </a></li>
-<li><a href="courses.html">Courses</a></li>
+ <li><a href="about.php">About</a></li>
+<li><a href="admission-form.php">Admissions </a></li>
+<li><a href="courses.php">Courses</a></li>
 
-<li><a href="contact.html">Contact</a></li>
+<li><a href="contact.php">Contact</a></li>
 </ul>
 </div>
 </div>
@@ -403,13 +361,13 @@
 <div class="col-md-3">
 <div class="address">
 <h3>Contact us</h3>
-<p><span>Address: </span> Unisco university Albany, NY, USA. 11001</p>
-<p>Email : <a href="https://demo.web3canvas.com/cdn-cgi/l/email-protection" class="__cf_email__" data-cfemail="30595e565f70455e5943535f1e535f5d">[email&#160;protected]</a>
-<br> Phone : +91 555 668 986</p>
+<p><span>Address: </span> Bwaise - Kawempe. P.O Box 36904</p>
+<p>Email : <a href="mailto:office@boostedtechs.com" class="" >office@boostedtechs.com</a>
+<br> Phone : +256 707084552</p>
 <ul class="footer-social-icons">
-<li><a href="academics.html#"><i class="fa fa-facebook fa-fb" aria-hidden="true"></i></a></li>
-<li><a href="academics.html#"><i class="fa fa-linkedin fa-in" aria-hidden="true"></i></a></li>
-<li><a href="academics.html#"><i class="fa fa-twitter fa-tw" aria-hidden="true"></i></a></li>
+<li><a href="academics.php#"><i class="fa fa-facebook fa-fb" aria-hidden="true"></i></a></li>
+<li><a href="academics.php#"><i class="fa fa-linkedin fa-in" aria-hidden="true"></i></a></li>
+<li><a href="academics.php#"><i class="fa fa-twitter fa-tw" aria-hidden="true"></i></a></li>
 </ul>
 </div>
 </div>
