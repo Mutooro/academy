@@ -26,7 +26,7 @@
 <div class="container nav-menu">
 <div class="row">
 <div class="col-md-12">
-<a href="index.html"><img src="images/responsive-logo.png" class="responsive-logo img-fluid" alt="responsive-logo"></a>
+<a href="index.html"><img src="images/academy.png" height="115px" width="120px" class="responsive-logo img-fluid" alt="responsive-logo"></a>
 </div>
 </div>
 <div class="row">
@@ -45,42 +45,12 @@
 </li>
 
 <li class="nav-logo">
-<a href="index.html#" class="navbar-brand"><img src="images/logo.png" class="img-fluid" alt="logo"></a>
+<a href="index.html#" class="navbar-brand"><img src="images/academy.png" height="200px" width="200px" class="img-fluid" alt="logo"></a>
 </li>
 
-<!-- <li class="nav-item dropdown">
-<a class="nav-link dropdown-toggle" href="index.html#" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
-Pages
-</a>
-<ul class="dropdown-menu">
-<li><a class="dropdown-item" href="index-2.html">Home Style Two</a></li>
-<li><a class="dropdown-item" href="index-video.html">Home Video</a></li>
-<li><a class="dropdown-item" href="blog.html">Blog</a></li>
-<li><a class="dropdown-item" href="blog-post.html">Blog Post</a></li>
-<li><a class="dropdown-item" href="index-landing-page.html">Landing Page</a></li>
-<li><a class="dropdown-item" href="events.html">Events</a></li>
-<li><a class="dropdown-item" href="course-detail.html">Course Details</a></li>
- <li><a class="dropdown-item" href="campus-life.html">Campus Life</a></li>
-<li><a class="dropdown-item" href="our-teachers.html">Our Teachers</a></li>
-<li><a class="dropdown-item" href="teachers-single.html">Teachers Single</a></li>
-<li><a class="dropdown-item" href="gallery.html">Gallery</a></li>
-<li><a class="dropdown-item" href="shortcodes.html">Shortcodes</a></li>
-<li class="dropdown">
-<a class="dropdown-item dropdown-toggle" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false" href="index.html#">Others Pages</a>
-<ul class="dropdown-menu dropdown-menu1">
-<li><a class="dropdown-item" href="notice-board.html">Notice Board</a></li>
-<li><a class="dropdown-item" href="chairman-speech.html">Chairman Speech</a></li>
-<li><a class="dropdown-item" href="sample-page.html">Sample Page</a></li>
-<li><a class="dropdown-item" href="faq.html">FAQ</a></li>
-<li><a class="dropdown-item" href="login.html">Login</a></li>
-<li><a class="dropdown-item" href="sign-up.html">Sign Up</a></li>
-<li><a class="dropdown-item" href="coming-soon.html">Coming Soon</a></li>
-</ul>
-</li>
-</ul>
-</li> -->
+
 <li class="nav-item">
-<a class="nav-link" href="academics.html">Academics</a>
+<a class="nav-link" href="courses.html">Courses</a>
 </li>
 <li class="nav-item">
 <a class="nav-link" href="contact.html">Contact</a>
@@ -441,7 +411,7 @@ Pages
 <div class="col-md-3">
 <div class="foot-logo">
 <a href="index.html">
-<img src="images/footer-logo.png" class="img-fluid" alt="footer_logo">
+<img src="images/academy.png" height="100px" width="100px" class="img-fluid" alt="footer_logo">
 </a>
 <p>2016 © copyright
 <br> All rights reserved.</p>
