@@ -26,7 +26,7 @@
 <div class="container nav-menu">
 <div class="row">
 <div class="col-md-12">
-<a href="index.html"><img src="images/academy.png" height="115px" width="120px" class="responsive-logo img-fluid" alt="responsive-logo"></a>
+<a href="index.php"><img src="images/academy.png" height="115px" width="120px" class="responsive-logo img-fluid" alt="responsive-logo"></a>
 </div>
 </div>
 <div class="row">
@@ -74,22 +74,22 @@
 <div class="carousel-caption d-md-block">
 <div class="slider_title">
 <h1>Creative Thinking &amp; Innovation</h1>
-<
-<div class="slider-btn">
-<a href="courses.php" class="btn btn-default">SEE Programs</a>
+
+<!-- <div class="slider-btn">
+<a href="courses.php" class="btn btn-default">SEE Programs</a> -->
 
 </div>
 </div>
 </div>
 </div>
 <div class="carousel-item">
-<img class="d-block" src="images/slider_academy1.jpg" alt="Second slide">
+<img class="d-block" src="images/slider_academy2.jpg" alt="Second slide">
 <div class="carousel-caption d-md-block">
 <div class="slider_title">
 <h1>We foster wisdom</h1>
 
-<div class="slider-btn">
-<a href="courses.php" class="btn btn-default">SEE Programs</a>
+<!-- <div class="slider-btn">
+<a href="courses.php" class="btn btn-default">SEE Programs</a> -->
 
 </div>
 </div>
@@ -119,10 +119,12 @@
 </div>
 <div class="row">
 <div class="col-md-12">
-<p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's
-<br>standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a
-<br> type specimen book. It has survived not only five centuries</p>
-<img src="images/welcom_sign.png" class="img-fluid" alt="welcom-img">
+<p>Boosted Academy is run and managed by Boosted Technologies LTD<br>
+
+Our goal is to provide academic content fully packaged with market needed skills at affordable prices<br>
+
+Quality and affordability is what we stand for.</p>
+<!-- <img src="images/welcom_sign.png" class="img-fluid" alt="welcom-img"> -->
 </div>
 </div>
 </div>
@@ -140,7 +142,7 @@
 <div class="col-xs-12 col-sm-6 col-md-6 col-lg-3">
 <div class="courses_box mb-5">
 <div class="course-img-wrap">
-<img src="images/admission/boosted.jpg" class="img-fluid" alt="courses-img">
+<img src="images/admission/dbms.jpg" class="img-fluid" alt="courses-img">
 <div class="courses_box-img">
 <div class="courses-link-wrap">
 <!-- <a href="course-detail.html" class="course-link"><span>course Details </span></a> -->
@@ -162,7 +164,7 @@
 <div class="col-xs-12 col-sm-6 col-md-6 col-lg-3">
 <div class="courses_box mb-5">
 <div class="course-img-wrap">
-<img src="images/admission/boosted.jpg" class="img-fluid" alt="courses-img">
+<img src="images/admission/html.jpg" class="img-fluid" alt="courses-img">
 <div class="courses_box-img">
 <div class="courses-link-wrap">
 <!-- <a href="course-detail.html" class="course-link"><span>course Details </span></a> -->
@@ -184,7 +186,7 @@
 <div class="col-xs-12 col-sm-6 col-md-6 col-lg-3">
 <div class="courses_box mb-5">
 <div class="course-img-wrap">
-<img src="images/admission/boosted.jpg" class="img-fluid" alt="courses-img">
+<img src="images/admission/group-boosteds.jpeg" class="img-fluid" alt="courses-img">
 <div class="courses_box-img">
 <div class="courses-link-wrap">
 <!-- <a href="course-detail.html" class="course-link"><span>course Details </span></a> -->
@@ -206,7 +208,7 @@
 <div class="col-xs-12 col-sm-6 col-md-6 col-lg-3">
 <div class="courses_box mb-5">
 <div class="course-img-wrap">
-<img src="images/admission/boosted.jpg" class="img-fluid" alt="courses-img">
+<img src="images/admission/literacy.jpg" class="img-fluid" alt="courses-img">
 <div class="courses_box-img">
 <div class="courses-link-wrap">
 <!-- <a href="course-detail.html" class="course-link"><span>course Details </span></a> -->
@@ -241,11 +243,11 @@
 <div class="col-lg-6">
 <h2>Upcoming Events</h2>
 <div class="event-img">
-<span class="event-img_date">06-Nov-17</span>
-<img src="images/upcoming-event-img.jpg" class="img-fluid" alt="event-img">
+<span class="event-img_date">June 2023</span>
+<img src="images/admission/group-boosteds.jpeg" class="img-fluid" alt="event-img">
 <div class="event-img_title">
-<h3>Event Heading</h3>
-<p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the ...</p>
+<h3>Internship Training</h3>
+<p>The June- August internship placement is ongoing. Register today to be part.</p>
 </div>
 </div>
 </div>
@@ -256,24 +258,24 @@
 <div class="col-md-12">
 <div class="event_date">
 <div class="event-date-wrap">
-<p>06</p>
-<span>Nov.17</span>
+<p>01</p>
+<span>Jun.23</span>
 </div>
 </div>
 <div class="date-description">
-<h3>Eestibulum sodales metus.</h3>
-<p>When an unknown printer took a galley of type and scrambled it to make a type specimen book ...</p>
+<h3>Boosted Internship.</h3>
+<p>Opportunity to acquire hands-on experience with real information systems and softwares.</p>
 <hr class="event_line">
 </div>
 <div class="event_date">
 <div class="event-date-wrap">
 <p>10</p>
-<span>Nov.17</span>
+<span>Jul.23</span>
 </div>
 </div>
 <div class="date-description">
-<h3>Integer faucibus nulla a ligula.</h3>
-<p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever...</p>
+<h3>Ethical Hacking Bootcamp.</h3>
+<p>To introduce learners to basic hacking and penetration skills and knowledge</p>
 </div>
 </div>
 </div>
@@ -282,23 +284,23 @@
 <div class="event_date">
 <div class="event-date-wrap">
 <p>05</p>
-<span>Oct.17</span>
+<span>Aug.23</span>
 </div>
 </div>
 <div class="date-description">
-<h3>Eestibulum sodales metus.</h3>
-<p>When an unknown printer took a galley of type and scrambled it to make a type specimen book ...</p>
+<h3>Database Administration Bootcamp.</h3>
+<p>Opportunity to explore the different database technologies and servers used in the computing world today</p>
 <hr class="event_line">
 </div>
 <div class="event_date">
 <div class="event-date-wrap">
 <p>06</p>
-<span>Nov.17</span>
+<span>Sep.23</span>
 </div>
 </div>
 <div class="date-description">
-<h3>Integer faucibus nulla a ligula.</h3>
- <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever...</p>
+<h3>Web development bootcamp.</h3>
+ <p>Basic introduction to front end development using Html, bootstrap, Javascript</p>
 </div>
 </div>
 </div>
@@ -307,23 +309,23 @@
 <div class="event_date">
 <div class="event-date-wrap">
 <p>06</p>
-<span>Sep.18</span>
+<span>Sep.23</span>
 </div>
 </div>
 <div class="date-description">
-<h3>Eestibulum sodales metus.</h3>
-<p>When an unknown printer took a galley of type and scrambled it to make a type specimen book ...</p>
+<h3>Web development bootcamp.</h3>
+<p>Basic introduction to front end development using Html, bootstrap, Javascript</p>
 <hr class="event_line">
 </div>
 <div class="event_date">
 <div class="event-date-wrap">
 <p>06</p>
-<span>Mar.17</span>
+<span>Jun.23</span>
 </div>
 </div>
 <div class="date-description">
-<h3>Integer faucibus nulla a ligula.</h3>
-<p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever...</p>
+<h3>Database Administration Bootcamp.</h3>
+<p>Opportunity to explore the different database technologies and servers used in the computing world today</p>
 </div>
 </div>
 </div>
@@ -402,7 +404,7 @@
 <a href="index.html">
 <img src="images/academy.png" height="100px" width="100px" class="img-fluid" alt="footer_logo">
 </a>
-<p>2016 © copyright
+<p>2023 © copyright
 <br> All rights reserved.</p>
 </div>
 </div>
@@ -418,19 +420,22 @@
 </ul>
 </div>
 </div>
-<div class="col-md-4">
-<div class="tweet_box">
-<h3>Tweets</h3>
-<div class="tweet-wrap">
-<div class="tweet"></div>
+<div class="col-md-2">
+<div class="sitemap">
+<h3>Navigation</h3>
+<ul>
+<li><a href="about.php">About</a></li>
+<li><a href="admission-form.php">Admissions </a></li>
+<li><a href="courses.php">Academics</a></li>
 
-</div>
+<li><a href="contact.php">Contact</a></li>
+</ul>
 </div>
 </div>
 <div class="col-md-3">
 <div class="address">
 <h3>Contact us</h3>
-<p><span>Address: </span> Unisco university Albany, NY, USA. 11001</p>
+<p><span>Address: </span> Bwaise - Kawempe. P.O Box 36904 </p>
 <p>Email : <a href="mailto:office@boostedtechs.com" class="">office@boostedtechs.com</a>
 <br> Phone : +256 707064552</p>
 <ul class="footer-social-icons">

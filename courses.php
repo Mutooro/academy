@@ -4,7 +4,7 @@
 
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-<title>Admission - Unisco - Education Website Template for University, College, School</title>
+<title>Admission - Academy</title>
 
 <script src="../../cdn-cgi/apps/head/OkbNSnEV_PNHTKP2_EYPrFNyZ8Q.js"></script>
 <link rel="stylesheet" href="css/bootstrap.min.css">
@@ -21,7 +21,7 @@
 </head>
 <body>
 
-<div class="about_bg">
+<div class="" style="background-image:url('images/slider_academy.jpg')">
 <div class="container">
 <div class="row">
 <div class="col-md-12">
@@ -59,7 +59,7 @@
 </div>
 <div class="row">
 <div class="col-md-12">
-<h1>Academics</h1>
+<h1 style="color:white;">Courses</h1>
 </div>
 </div>
 </div>
@@ -82,7 +82,7 @@
 <div class="row">
 <div class="col-md-6">
 <a href="course-detail.html" class="course_box">
-<img src="images/admission/boosted.jpg" class="img-fluid" alt="#">
+<img src="images/admission/dbms.jpg" class="img-fluid" alt="#">
 <div class="couse-desc-wrap">
 <h4>Database Administration </h4>
 <div class="star-rating">
@@ -110,7 +110,7 @@
 </div>
 <div class="col-md-6">
 <a href="course-detail.html" class="course_box">
-<img src="images/admission/boosted.jpg" class="img-fluid" alt="#">
+<img src="images/admission/html.jpg" class="img-fluid" alt="#">
 <div class="couse-desc-wrap">
 <h4>System Design and Analysis</h4>
 <div class="star-rating">
@@ -166,7 +166,7 @@
 </div>
 <div class="col-md-6">
 <a href="course-detail.html" class="course_box">
-<img src="images/admission/intern.jpg" class="img-fluid" alt="#">
+<img src="images/admission/group-boosteds.jpeg" class="img-fluid" alt="#">
 <div class="couse-desc-wrap">
 <h4>Internship training</h4>
 <div class="star-rating">
@@ -194,7 +194,7 @@
 </div>
 <div class="col-md-6">
 <a href="course-detail.html" class="course_box">
-<img src="images/admission/boosted.jpg" class="img-fluid" alt="#">
+<img src="images/admission/software.jpg" class="img-fluid" alt="#">
 <div class="couse-desc-wrap">
 <h4>Software Engineering</h4>
 <div class="star-rating">
@@ -222,7 +222,7 @@
 </div>
 <div class="col-md-6">
 <a href="course-detail.html" class="course_box">
-<img src="images/admission/boosted.jpg" class="img-fluid" alt="#">
+<img src="images/admission/literacy.jpg" class="img-fluid" alt="#">
 <div class="couse-desc-wrap">
 <h4>Foundamentals of computer applications</h4>
 <div class="star-rating">
@@ -250,7 +250,7 @@
 </div>
 <div class="col-md-6">
 <a href="course-detail.html" class="course_box">
-<img src="images/admission/boosted.jpg" class="img-fluid" alt="#">
+<img src="images/admission/html.jpg" class="img-fluid" alt="#">
 <div class="couse-desc-wrap">
 <h4>Web design</h4>
 <div class="star-rating">
@@ -278,7 +278,7 @@
 </div>
 <div class="col-md-6">
 <a href="course-detail.html" class="course_box">
-<img src="images/admission/boosted.jpg" class="img-fluid" alt="#">
+<img src="images/admission/software.jpg" class="img-fluid" alt="#">
 <div class="couse-desc-wrap">
 <h4>Cyber secruity &amp; Ethical Hacking</h4>
 <div class="star-rating">
@@ -349,13 +349,16 @@
 </ul>
 </div>
 </div>
-<div class="col-md-4">
-<div class="tweet_box">
-<h3>Tweets</h3>
-<div class="tweet-wrap">
-<div class="tweet"></div>
+<div class="col-md-2">
+<div class="sitemap">
+<h3>Navigation</h3>
+<ul>
+<li><a href="about.php">About</a></li>
+<li><a href="admission-form.php">Admissions </a></li>
+<li><a href="courses.php">Academics</a></li>
 
-</div>
+<li><a href="contact.php">Contact</a></li>
+</ul>
 </div>
 </div>
 <div class="col-md-3">

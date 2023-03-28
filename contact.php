@@ -21,11 +21,11 @@
 </head>
 <body>
 
-<div class="about_bg">
+<div class="" style="background-image:url('images/slider_academy.jpg')">
 <div class="container">
 <div class="row">
 <div class="col-md-12">
-<a href="index.html"><img src="images/academy.png" height="115px" width="120px" class="responsive-logo img-fluid" alt="responsive-logo"></a>
+<a href="index.php"><img src="images/academy.png" height="115px" width="120px" class="responsive-logo img-fluid" alt="responsive-logo"></a>
 </div>
 </div>
 <div class="row">
@@ -59,7 +59,7 @@
 </div>
 <div class="row">
 <div class="col-md-12">
-<h1>Contact Us</h1>
+<h1 style="color:white;">Contact Us</h1>
 </div>
 </div>
 </div>
@@ -185,13 +185,16 @@
 </ul>
 </div>
 </div>
-<div class="col-md-4">
-<div class="tweet_box">
-<h3>Tweets</h3>
-<div class="tweet-wrap">
-<div class="tweet"></div>
+<div class="col-md-2">
+<div class="sitemap">
+<h3>Navigation</h3>
+<ul>
+<li><a href="about.php">About</a></li>
+<li><a href="admission-form.php">Admissions </a></li>
+<li><a href="courses.php">Academics</a></li>
 
-</div>
+<li><a href="contact.php">Contact</a></li>
+</ul>
 </div>
 </div>
 <div class="col-md-3">

@@ -21,7 +21,7 @@
 </head>
 <body>
 
-<div class="about_bg">
+<div class="" style="background-image:url('images/slider_academy2.jpg')">
 <div class="container">
 <div class="row">
 <div class="col-md-12">
@@ -44,7 +44,7 @@
 </li>
 
 <li class="nav-logo">
-<a href="index.html" class="navbar-brand"><img src="images/academy.png" height="200px" width="200px" class="img-fluid" alt="logo"></a>
+<a href="index.php" class="navbar-brand"><img src="images/academy.png" height="200px" width="200px" class="img-fluid" alt="logo"></a>
 </li>
 
 <li class="nav-item">
@@ -60,7 +60,7 @@
 </div>
 <div class="row">
 <div class="col-md-12">
-<h1>Admissions</h1>
+<h1 style="color:white;" >Admissions</h1>
 </div>
 </div>
 </div>
@@ -138,7 +138,18 @@
 </ul>
 </div>
 </div>
+<div class="col-md-2">
+<div class="sitemap">
+<h3>Navigation</h3>
+<ul>
+<li><a href="about.php">About</a></li>
+<li><a href="admission-form.php">Admissions </a></li>
+<li><a href="courses.php">Academics</a></li>
 
+<li><a href="contact.php">Contact</a></li>
+</ul>
+</div>
+</div>
 <div class="col-md-3">
 <div class="address">
 <h3>Contact us</h3>

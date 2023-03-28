@@ -23,7 +23,7 @@
 </head>
 <body>
 
-<div class="about_bg">
+<div class="" style="background-image:url('images/slider_academy.jpg')">
 <div class="container">
 <div class="row">
 <div class="col-md-12">
@@ -46,7 +46,7 @@
 </li>
 
 <li class="nav-logo">
-<a href="index.html" class="navbar-brand"><img src="images/academy.png" height="200px" width="200px"  class="img-fluid" alt="logo"></a>
+<a href="index.php" class="navbar-brand"><img src="images/academy.png" height="200px" width="200px"  class="img-fluid" alt="logo"></a>
 </li>
 <li class="nav-item">
     <a class="nav-link" href="courses.php">Courses</a>
@@ -61,7 +61,7 @@
 </div>
 <div class="row">
 <div class="col-md-12">
-<h1>About Us</h1>
+<h1 style="color:white;">About Us</h1>
 </div>
 </div>
 </div>
@@ -78,7 +78,7 @@
 Our goal is to provide academic content fully packaged with market needed skills at affordable prices<br>
 
 Quality and affordability is what we stand for.</p>
-<a href="courses.html" class="btn btn-default btn-about">VIEW OUR COURSE</a>
+<a href="courses.php" class="btn btn-default btn-about">VIEW OUR COURSE</a>
 </div>
 <div class="col-md-5">
 <img src="images/academy.png" class="img-fluid" alt="#">
@@ -110,7 +110,7 @@ Quality and affordability is what we stand for.</p>
 <p class="quote_text">Boosted academy is the only place one can rely on for best handson skills with their experienced staff. </p>
 <div class="testi-img_block">
 <img src="images/muto.jpg" class="img-fluid" alt="#">
-<p><span>Kiconco Precious</span> Makerere University</p>
+<p><span>Peace Kevin</span> Makerere University</p>
 </div>
 </div>
 </div>
@@ -120,7 +120,7 @@ Quality and affordability is what we stand for.</p>
 </section>
 
 
-<div class="detailed_chart">
+<!-- <div class="" style="background-image:url('images/admission/group-boosteds.jpeg')"; height="100%">
 <div class="container">
 <div class="row">
 <div class="col-xs-12 col-sm-6 col-md-3 chart_bottom">
@@ -160,7 +160,7 @@ Quality and affordability is what we stand for.</p>
 </div>
 </div>
 </div>
-</div>
+</div> -->
 
 
 <section class="our-teachers">
@@ -230,10 +230,10 @@ Quality and affordability is what we stand for.</p>
 </div>
 <div class="col-xs-12 col-sm-6 col-md-6">
 <div class="our-teachers-block">
-<img src="images/gilbert.jpg" class="img-fluid teachers-img" alt="#">
+<img src="images/muts.png" class="img-fluid teachers-img" alt="#">
 <div class="teachers-description">
-<p><strong>Mupanda Gilbert</strong>
-<br> CTO</p>
+<p><strong>Mutooro Martin</strong>
+<br> Admin</p>
 <hr />
 <p> Syllabus : <span> Computer Engineering &amp; Computer Literacy</span></p>
 <div class="social-icons">
@@ -291,13 +291,16 @@ Quality and affordability is what we stand for.</p>
 </ul>
 </div>
 </div>
-<div class="col-md-4">
-<div class="tweet_box">
-<h3>Tweets</h3>
-<div class="tweet-wrap">
-<div class="tweet"></div>
+<div class="col-md-2">
+<div class="sitemap">
+<h3>Navigation</h3>
+<ul>
+<li><a href="about.php">About</a></li>
+<li><a href="admission-form.php">Admissions </a></li>
+<li><a href="courses.php">Academics</a></li>
 
-</div>
+<li><a href="contact.php">Contact</a></li>
+</ul>
 </div>
 </div>
 <div class="col-md-3">
