@@ -65,7 +65,7 @@
 <div id="carousel" class="carousel slide" data-ride="carousel">
 <ol class="carousel-indicators">
 <li data-target="#carousel" data-slide-to="0" class="active"></li>
-<li data-target="#carousel" data-slide-to="1"></li>
+<li data-target="#carousel" data-slide-to="1" class=""></li>
 <li data-target="#carousel" data-slide-to="2"></li>
 </ol>
 <div class="carousel-inner" role="listbox">
@@ -82,6 +82,7 @@
 </div>
 </div>
 </div>
+
 <div class="carousel-item">
 <img class="d-block" src="images/slider_academy2.jpg" alt="Second slide">
 <div class="carousel-caption d-md-block">
@@ -389,7 +390,7 @@ Quality and affordability is what we stand for.</p>
 <div class="col-md-12">
 <div class="subscribe">
 <h3>Newsletter</h3>
-<form id="subscribeform" action="https://demo.web3canvas.com/themeforest/unisco/php/subscribe.php" method="post">
+<form id="subscribeform" action="" method="post">
 <input class="signup_form" type="text" name="email" placeholder="Enter Your Email Address">
 <button type="submit" class="btn btn-warning" id="js-subscribe-btn">SUBSCRIBE</button>
 <div id="js-subscribe-result" data-success-msg="Success, Please check your email." data-error-msg="Oops! Something went wrong"></div>
@@ -414,7 +415,7 @@ Quality and affordability is what we stand for.</p>
 <ul>
 <li><a href="about.php">About</a></li>
 <li><a href="admission-form.php">Admissions </a></li>
-<li><a href="courses.php">Academics</a></li>
+<li><a href="courses.php">Courses</a></li>
 
 <li><a href="contact.php">Contact</a></li>
 </ul>
@@ -426,7 +427,7 @@ Quality and affordability is what we stand for.</p>
 <ul>
 <li><a href="about.php">About</a></li>
 <li><a href="admission-form.php">Admissions </a></li>
-<li><a href="courses.php">Academics</a></li>
+<li><a href="courses.php">Courses</a></li>
 
 <li><a href="contact.php">Contact</a></li>
 </ul>

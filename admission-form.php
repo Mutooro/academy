@@ -107,7 +107,7 @@
 <div class="col-md-12">
 <div class="subscribe">
 <h3>Newsletter</h3>
-<form id="subscribeform" action="https://demo.web3canvas.com/themeforest/unisco/php/subscribe.php" method="post">
+<form id="subscribeform" action="" method="post">
 <input class="signup_form" type="text" name="email" placeholder="Enter Your Email Address">
 <button type="submit" class="btn btn-warning" id="js-subscribe-btn">SUBSCRIBE</button>
 <div id="js-subscribe-result" data-success-msg="Success, Please check your email." data-error-msg="Oops! Something went wrong"></div>
@@ -130,11 +130,11 @@
 <div class="sitemap">
 <h3>Navigation</h3>
 <ul>
-<li><a href="about.html">About</a></li>
-<li><a href="admission-form.html">Admissions </a></li>
-<li><a href="courses.html">Courses</a></li>
+<li><a href="about.php">About</a></li>
+<li><a href="admission-form.php">Admissions </a></li>
+<li><a href="courses.php">Courses</a></li>
 
-<li><a href="contact.html">Contact</a></li>
+<li><a href="contact.php">Contact</a></li>
 </ul>
 </div>
 </div>
@@ -144,7 +144,7 @@
 <ul>
 <li><a href="about.php">About</a></li>
 <li><a href="admission-form.php">Admissions </a></li>
-<li><a href="courses.php">Academics</a></li>
+<li><a href="courses.php">Courses</a></li>
 
 <li><a href="contact.php">Contact</a></li>
 </ul>

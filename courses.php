@@ -4,7 +4,7 @@
 
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-<title>Admission - Academy</title>
+<title>Our Courses - Boosted Academy</title>
 
 <script src="../../cdn-cgi/apps/head/OkbNSnEV_PNHTKP2_EYPrFNyZ8Q.js"></script>
 <link rel="stylesheet" href="css/bootstrap.min.css">
@@ -81,7 +81,7 @@
 <br>
 <div class="row">
 <div class="col-md-6">
-<a href="course-detail.html" class="course_box">
+<a href="courses.php#" class="course_box">
 <img src="images/admission/dbms.jpg" class="img-fluid" alt="#">
 <div class="couse-desc-wrap">
 <h4>Database Administration </h4>
@@ -109,7 +109,7 @@
 </a>
 </div>
 <div class="col-md-6">
-<a href="course-detail.html" class="course_box">
+<a href="courses,php#" class="course_box">
 <img src="images/admission/html.jpg" class="img-fluid" alt="#">
 <div class="couse-desc-wrap">
 <h4>System Design and Analysis</h4>
@@ -137,7 +137,7 @@
 </a>
 </div>
 <div class="col-md-6">
-<a href="course-detail.html" class="course_box">
+<a href="courses.php#" class="course_box">
 <img src="images/admission/boosted.jpg" class="img-fluid" alt="#">
 <div class="couse-desc-wrap">
 <h4>Graphics Design</h4>
@@ -165,7 +165,7 @@
 </a>
 </div>
 <div class="col-md-6">
-<a href="course-detail.html" class="course_box">
+<a href="courses.php#" class="course_box">
 <img src="images/admission/group-boosteds.jpeg" class="img-fluid" alt="#">
 <div class="couse-desc-wrap">
 <h4>Internship training</h4>
@@ -193,7 +193,7 @@
 </a>
 </div>
 <div class="col-md-6">
-<a href="course-detail.html" class="course_box">
+<a href="courses.php#" class="course_box">
 <img src="images/admission/software.jpg" class="img-fluid" alt="#">
 <div class="couse-desc-wrap">
 <h4>Software Engineering</h4>
@@ -221,7 +221,7 @@
 </a>
 </div>
 <div class="col-md-6">
-<a href="course-detail.html" class="course_box">
+<a href="courses.php#" class="course_box">
 <img src="images/admission/literacy.jpg" class="img-fluid" alt="#">
 <div class="couse-desc-wrap">
 <h4>Foundamentals of computer applications</h4>
@@ -249,7 +249,7 @@
 </a>
 </div>
 <div class="col-md-6">
-<a href="course-detail.html" class="course_box">
+<a href="courses.php#" class="course_box">
 <img src="images/admission/html.jpg" class="img-fluid" alt="#">
 <div class="couse-desc-wrap">
 <h4>Web design</h4>
@@ -277,7 +277,7 @@
 </a>
 </div>
 <div class="col-md-6">
-<a href="course-detail.html" class="course_box">
+<a href="courses.php#" class="course_box">
 <img src="images/admission/software.jpg" class="img-fluid" alt="#">
 <div class="couse-desc-wrap">
 <h4>Cyber secruity &amp; Ethical Hacking</h4>
@@ -318,7 +318,7 @@
 <div class="col-md-12">
 <div class="subscribe">
 <h3>Newsletter</h3>
-<form id="subscribeform" action="https://demo.web3canvas.com/themeforest/unisco/php/subscribe.php" method="post">
+<form id="subscribeform" action="" method="post">
 <input class="signup_form" type="text" name="email" placeholder="Enter Your Email Address">
 <button type="submit" class="btn btn-warning" id="js-subscribe-btn">SUBSCRIBE</button>
 <div id="js-subscribe-result" data-success-msg="Success, Please check your email." data-error-msg="Oops! Something went wrong"></div>
@@ -355,7 +355,7 @@
 <ul>
 <li><a href="about.php">About</a></li>
 <li><a href="admission-form.php">Admissions </a></li>
-<li><a href="courses.php">Academics</a></li>
+<li><a href="courses.php">Courses</a></li>
 
 <li><a href="contact.php">Contact</a></li>
 </ul>
