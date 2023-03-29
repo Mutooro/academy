@@ -95,14 +95,21 @@
 </div>
 </div>
 </div>
+<div class="carousel-item">
+    <img class="d-block" src="images/slider_academy.jpg" alt="third slide">
+    <div class="carousel-caption d-md-block">
+        <div class="slider_title">
+            <h1>Inspired by Innovation</h1>
+        </div>
+    </div>
 </div>
 
 </div>
-<a class="carousel-control-prev" href="index.html#carousel" role="button" data-slide="prev">
+<a class="carousel-control-prev" href="index.php#carousel" role="button" data-slide="prev">
 <i class="icon-arrow-left fa-slider" aria-hidden="true"></i>
 <span class="sr-only">Previous</span>
 </a>
-<a class="carousel-control-next" href="index.html#carousel" role="button" data-slide="next">
+<a class="carousel-control-next" href="index.php#carousel" role="button" data-slide="next">
 <i class="icon-arrow-right fa-slider" aria-hidden="true"></i>
 <span class="sr-only">Next</span>
 </a>
