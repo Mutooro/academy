@@ -37,25 +37,26 @@
 </button>
 <div class="collapse navbar-collapse" id="navbarNavDropdown">
 <ul class="navbar-nav">
-<li class="nav-item">
-<a class="nav-link" href="about.php">About<span class="sr-only">(current)</span></a>
-</li>
-<li class="nav-item">
-<a class="nav-link" href="admission-form.php">Admissions</a>
-</li>
-
-<li class="nav-logo">
-<a href="index.php" class="navbar-brand"><img src="images/academy.png" height="200px" width="200px" class="img-fluid" alt="logo"></a>
-</li>
-
-
-<li class="nav-item">
-<a class="nav-link" href="courses.php">Courses</a>
-</li>
-<li class="nav-item">
-<a class="nav-link" href="contact.php">Contact</a>
-</li>
-</ul>
+    <ul class="navbar-nav">
+        <li class="nav-item">
+        <a class="nav-link" href="about.php">About<span class="sr-only">(current)</span></a>
+        </li>
+        <li class="nav-item">
+        <a class="nav-link" href="admission-form.php">Admissions</a>
+        </li>
+        
+        <li class="nav-logo">
+        <a href="index.php" class="navbar-brand"><img src="images/academy.png" height="200px" width="200px" class="img-fluid" alt="logo"></a>
+        </li>
+        
+        
+        <li class="nav-item">
+        <a class="nav-link" href="courses.php">Courses</a>
+        </li>
+        <li class="nav-item">
+        <a class="nav-link" href="contact.php">Contact</a>
+        </li>
+        </ul>
 </div>
 </nav>
 </div>
@@ -65,7 +66,7 @@
 <div id="carousel" class="carousel slide" data-ride="carousel">
 <ol class="carousel-indicators">
 <li data-target="#carousel" data-slide-to="0" class="active"></li>
-<li data-target="#carousel" data-slide-to="1" class=""></li>
+<li data-target="#carousel" data-slide-to="1"></li>
 <li data-target="#carousel" data-slide-to="2"></li>
 </ol>
 <div class="carousel-inner" role="listbox">
@@ -75,35 +76,38 @@
 <div class="slider_title">
 <h1>Creative Thinking &amp; Innovation</h1>
 
-<!-- <div class="slider-btn">
-<a href="courses.php" class="btn btn-default">SEE Programs</a> -->
-
+<div class="slider-btn">
+<a href="courses.php" class="btn btn-default">SEE Programs</a>
+<!--  -->
 </div>
 </div>
 </div>
 </div>
-
 <div class="carousel-item">
 <img class="d-block" src="images/slider_academy2.jpg" alt="Second slide">
 <div class="carousel-caption d-md-block">
 <div class="slider_title">
 <h1>We foster wisdom</h1>
 
-<!-- <div class="slider-btn">
-<a href="courses.php" class="btn btn-default">SEE Programs</a> -->
+<div class="slider-btn">
+<a href="courses.php" class="btn btn-default">SEE Programs</a>
 
+</div>
 </div>
 </div>
 </div>
 <div class="carousel-item">
-    <img class="d-block" src="images/slider_academy.jpg" alt="third slide">
-    <div class="carousel-caption d-md-block">
-        <div class="slider_title">
-            <h1>Inspired by Innovation</h1>
-        </div>
-    </div>
-</div>
+<img class="d-block" src="images/slider_academy1.jpg" alt="Third slide">
+<div class="carousel-caption d-md-block">
+<div class="slider_title">
+<h1>Life at the Academy</h1>
 
+<div class="slider-btn">
+<a href="about.php" class="btn btn-default">SEE MORE</a>
+</div>
+</div>
+</div>
+</div>
 </div>
 <a class="carousel-control-prev" href="index.php#carousel" role="button" data-slide="prev">
 <i class="icon-arrow-left fa-slider" aria-hidden="true"></i>
@@ -119,275 +123,231 @@
 
 
 <section class="clearfix about">
-<div class="container">
-<div class="row">
-<div class="col-md-12">
-<h2>Welcome</h2>
-</div>
-</div>
-<div class="row">
-<div class="col-md-12">
-<p>Boosted Academy is run and managed by Boosted Technologies LTD<br>
-
-Our goal is to provide academic content fully packaged with market needed skills at affordable prices<br>
-
-Quality and affordability is what we stand for.</p>
-<!-- <img src="images/welcom_sign.png" class="img-fluid" alt="welcom-img"> -->
-</div>
-</div>
-</div>
-</section>
-
-
-<section class="our_courses">
-<div class="container">
-<div class="row">
-<div class="col-md-12">
-<h2>Our Courses</h2>
-</div>
-</div>
-<div class="row">
-<div class="col-xs-12 col-sm-6 col-md-6 col-lg-3">
-<div class="courses_box mb-5">
-<div class="course-img-wrap">
-<img src="images/admission/dbms.jpg" class="img-fluid" alt="courses-img">
-<div class="courses_box-img">
-<div class="courses-link-wrap">
-<!-- <a href="course-detail.html" class="course-link"><span>course Details </span></a> -->
-<a href="admission-form.php" class="course-link"><span>Join today </span></a>
-</div>
-
-</div>
-</div>
-
-<div class="courses_icon">
-<img src="images/plus-icon.png" class="img-fluid close-icon" alt="plus-icon">
-</div>
-<a href="#" class="course-box-content">
-<h3>Database Admin</h3>
-<p>Redis, MYSQL, Oracle...</p>
- </a>
-</div>
-</div>
-<div class="col-xs-12 col-sm-6 col-md-6 col-lg-3">
-<div class="courses_box mb-5">
-<div class="course-img-wrap">
-<img src="images/admission/html.jpg" class="img-fluid" alt="courses-img">
-<div class="courses_box-img">
-<div class="courses-link-wrap">
-<!-- <a href="course-detail.html" class="course-link"><span>course Details </span></a> -->
-<a href="admission-form.php" class="course-link"><span>Join today </span></a>
-</div>
-
-</div>
-</div>
-
-<div class="courses_icon">
-<img src="images/plus-icon.png" class="img-fluid close-icon" alt="plus-icon">
-</div>
-<a href="#" class="course-box-content">
-<h3>Web development</h3>
-<p>PHP, Javascript, MYSQL...</p>
-</a>
-</div>
-</div>
-<div class="col-xs-12 col-sm-6 col-md-6 col-lg-3">
-<div class="courses_box mb-5">
-<div class="course-img-wrap">
-<img src="images/admission/group-boosteds.jpeg" class="img-fluid" alt="courses-img">
-<div class="courses_box-img">
-<div class="courses-link-wrap">
-<!-- <a href="course-detail.html" class="course-link"><span>course Details </span></a> -->
-<a href="admission-form.php" class="course-link"><span>Join today </span></a>
-</div>
-
-</div>
-</div>
-
-<div class="courses_icon">
-<img src="images/plus-icon.png" class="img-fluid close-icon" alt="plus-icon">
-</div>
-<a href="course-detail.html" class="course-box-content">
-<h3>Internship</h3>
-<p>Obtain skills today...</p>
-</a>
-</div>
-</div>
-<div class="col-xs-12 col-sm-6 col-md-6 col-lg-3">
-<div class="courses_box mb-5">
-<div class="course-img-wrap">
-<img src="images/admission/literacy.jpg" class="img-fluid" alt="courses-img">
-<div class="courses_box-img">
-<div class="courses-link-wrap">
-<!-- <a href="course-detail.html" class="course-link"><span>course Details </span></a> -->
-<a href="admission-form.php" class="course-link"><span>Join today </span></a>
-</div>
-
-</div>
-</div>
-
-<div class="courses_icon">
-<img src="images/plus-icon.png" class="img-fluid close-icon" alt="plus-icon">
-</div>
-<a href="#" class="course-box-content">
-<h3>IT Essentials</h3>
-<p>Microsoft pakages...</p>
-</a>
-</div>
- </div>
-</div>
-<div class="row">
-<div class="col-md-12 text-center">
-<a href="courses.php" class="btn btn-default btn-courses">View all courses</a>
-</div>
-</div>
-</div>
-</section>
-
-
-<section class="event">
-<div class="container">
-<div class="row">
-<div class="col-lg-6">
-<h2>Upcoming Events</h2>
-<div class="event-img">
-<span class="event-img_date">June 2023</span>
-<img src="images/admission/group-boosteds.jpeg" class="img-fluid" alt="event-img">
-<div class="event-img_title">
-<h3>Internship Training</h3>
-<p>The June- August internship placement is ongoing. Register today to be part.</p>
-</div>
-</div>
-</div>
-<div class="col-lg-6">
-<h2>Important Dates</h2>
-<div class="event-date-slide">
-<div class="row">
-<div class="col-md-12">
-<div class="event_date">
-<div class="event-date-wrap">
-<p>01</p>
-<span>Jun.23</span>
-</div>
-</div>
-<div class="date-description">
-<h3>Boosted Internship.</h3>
-<p>Opportunity to acquire hands-on experience with real information systems and softwares.</p>
-<hr class="event_line">
-</div>
-<div class="event_date">
-<div class="event-date-wrap">
-<p>10</p>
-<span>Jul.23</span>
-</div>
-</div>
-<div class="date-description">
-<h3>Ethical Hacking Bootcamp.</h3>
-<p>To introduce learners to basic hacking and penetration skills and knowledge</p>
-</div>
-</div>
-</div>
-<div class="row">
-<div class="col-md-12">
-<div class="event_date">
-<div class="event-date-wrap">
-<p>05</p>
-<span>Aug.23</span>
-</div>
-</div>
-<div class="date-description">
-<h3>Database Administration Bootcamp.</h3>
-<p>Opportunity to explore the different database technologies and servers used in the computing world today</p>
-<hr class="event_line">
-</div>
-<div class="event_date">
-<div class="event-date-wrap">
-<p>06</p>
-<span>Sep.23</span>
-</div>
-</div>
-<div class="date-description">
-<h3>Web development bootcamp.</h3>
- <p>Basic introduction to front end development using Html, bootstrap, Javascript</p>
-</div>
-</div>
-</div>
-<div class="row">
-<div class="col-md-12">
-<div class="event_date">
-<div class="event-date-wrap">
-<p>06</p>
-<span>Sep.23</span>
-</div>
-</div>
-<div class="date-description">
-<h3>Web development bootcamp.</h3>
-<p>Basic introduction to front end development using Html, bootstrap, Javascript</p>
-<hr class="event_line">
-</div>
-<div class="event_date">
-<div class="event-date-wrap">
-<p>06</p>
-<span>Jun.23</span>
-</div>
-</div>
-<div class="date-description">
-<h3>Database Administration Bootcamp.</h3>
-<p>Opportunity to explore the different database technologies and servers used in the computing world today</p>
-</div>
-</div>
-</div>
-</div>
-</div>
-</div>
-</div>
-</section>
-
-<!-- 
-<div class="detailed_chart">
-<div class="container">
-<div class="row">
-<div class="col-xs-12 col-sm-6 col-md-3 chart_bottom">
-<div class="chart-img">
-<img src="images/chart-icon_1.png" class="img-fluid" alt="chart_icon">
-</div>
-<div class="chart-text">
-<p><span class="counter">39</span> Teachers
-</p>
-</div>
-</div>
-<div class="col-xs-12 col-sm-6 col-md-3 chart_bottom chart_top">
-<div class="chart-img">
-<img src="images/chart-icon_2.png" class="img-fluid" alt="chart_icon">
-</div>
-<div class="chart-text">
-<p><span class="counter">2600</span> Students
-</p>
-</div>
-</div>
-<div class="col-xs-12 col-sm-6 col-md-3 chart_top">
-<div class="chart-img">
-<img src="images/chart-icon_3.png" class="img-fluid" alt="chart_icon">
-</div>
-<div class="chart-text">
-<p><span class="counter">56</span> Courses
-</p>
-</div>
-</div>
-<div class="col-xs-12 col-sm-6 col-md-3">
-<div class="chart-img">
-<img src="images/chart-icon_4.png" class="img-fluid" alt="chart_icon">
-</div>
-<div class="chart-text">
-<p><span class="counter">13</span> Years Exp.</p>
-</div>
-</div>
-</div>
-</div>
-</div>
- -->
+    <div class="container">
+    <div class="row">
+    <div class="col-md-12">
+    <h2>Welcome</h2>
+    </div>
+    </div>
+    <div class="row">
+    <div class="col-md-12">
+    <p>Boosted Academy is run and managed by Boosted Technologies LTD<br>
+    
+    Our goal is to provide academic content fully packaged with market needed skills at affordable prices<br>
+    
+    Quality and affordability is what we stand for.</p>
+    <!-- <img src="images/welcom_sign.png" class="img-fluid" alt="welcom-img"> -->
+    </div>
+    </div>
+    </div>
+    </section>
+    
+    
+    <section class="our_courses">
+    <div class="container">
+    <div class="row">
+    <div class="col-md-12">
+    <h2>Our Courses</h2>
+    </div>
+    </div>
+    <div class="row">
+    <div class="col-xs-12 col-sm-6 col-md-6 col-lg-3">
+    <div class="courses_box mb-5">
+    <div class="course-img-wrap">
+    <img src="images/admission/dbms.jpg" class="img-fluid" alt="courses-img">
+    <div class="courses_box-img">
+    <div class="courses-link-wrap">
+    <!-- <a href="course-detail.html" class="course-link"><span>course Details </span></a> -->
+    <a href="admission-form.php" class="course-link"><span>Join today </span></a>
+    </div>
+    
+    </div>
+    </div>
+    
+    <div class="courses_icon">
+    <img src="images/plus-icon.png" class="img-fluid close-icon" alt="plus-icon">
+    </div>
+    <a href="#" class="course-box-content">
+    <h3>Database Admin</h3>
+    <p>Redis, MYSQL, Oracle...</p>
+     </a>
+    </div>
+    </div>
+    <div class="col-xs-12 col-sm-6 col-md-6 col-lg-3">
+    <div class="courses_box mb-5">
+    <div class="course-img-wrap">
+    <img src="images/admission/html.jpg" class="img-fluid" alt="courses-img">
+    <div class="courses_box-img">
+    <div class="courses-link-wrap">
+    <!-- <a href="course-detail.html" class="course-link"><span>course Details </span></a> -->
+    <a href="admission-form.php" class="course-link"><span>Join today </span></a>
+    </div>
+    
+    </div>
+    </div>
+    
+    <div class="courses_icon">
+    <img src="images/plus-icon.png" class="img-fluid close-icon" alt="plus-icon">
+    </div>
+    <a href="#" class="course-box-content">
+    <h3>Web development</h3>
+    <p>PHP, Javascript, MYSQL...</p>
+    </a>
+    </div>
+    </div>
+    <div class="col-xs-12 col-sm-6 col-md-6 col-lg-3">
+    <div class="courses_box mb-5">
+    <div class="course-img-wrap">
+    <img src="images/admission/group-boosteds.jpeg" class="img-fluid" alt="courses-img">
+    <div class="courses_box-img">
+    <div class="courses-link-wrap">
+    <!-- <a href="course-detail.html" class="course-link"><span>course Details </span></a> -->
+    <a href="https://boostedtechs.com/apply" class="course-link"><span>Join today </span></a>
+    </div>
+    
+    </div>
+    </div>
+    
+    <div class="courses_icon">
+    <img src="images/plus-icon.png" class="img-fluid close-icon" alt="plus-icon">
+    </div>
+    <a href="course-detail.html" class="course-box-content">
+    <h3>Internship</h3>
+    <p>Obtain skills today...</p>
+    </a>
+    </div>
+    </div>
+    <div class="col-xs-12 col-sm-6 col-md-6 col-lg-3">
+    <div class="courses_box mb-5">
+    <div class="course-img-wrap">
+    <img src="images/admission/literacy.jpg" class="img-fluid" alt="courses-img">
+    <div class="courses_box-img">
+    <div class="courses-link-wrap">
+    <!-- <a href="course-detail.html" class="course-link"><span>course Details </span></a> -->
+    <a href="admission-form.php" class="course-link"><span>Join today </span></a>
+    </div>
+    
+    </div>
+    </div>
+    
+    <div class="courses_icon">
+    <img src="images/plus-icon.png" class="img-fluid close-icon" alt="plus-icon">
+    </div>
+    <a href="#" class="course-box-content">
+    <h3>IT Essentials</h3>
+    <p>Microsoft pakages...</p>
+    </a>
+    </div>
+     </div>
+    </div>
+    <div class="row">
+    <div class="col-md-12 text-center">
+    <a href="courses.php" class="btn btn-default btn-courses">View all courses</a>
+    </div>
+    </div>
+    </div>
+    </section>
 
 
+    <section class="event">
+        <div class="container">
+        <div class="row">
+        <div class="col-lg-6">
+        <h2>Upcoming Events</h2>
+        <div class="event-img">
+        <span class="event-img_date">June 2023</span>
+        <img src="images/admission/group-boosteds.jpeg" class="img-fluid" alt="event-img">
+        <div class="event-img_title">
+        <h3>Internship Training</h3>
+        <p>The June- August internship placement is ongoing. Register today to be part.</p>
+        </div>
+        </div>
+        </div>
+        <div class="col-lg-6">
+        <h2>Important Dates</h2>
+        <div class="event-date-slide">
+        <div class="row">
+        <div class="col-md-12">
+        <div class="event_date">
+        <div class="event-date-wrap">
+        <p>01</p>
+        <span>Jun.23</span>
+        </div>
+        </div>
+        <div class="date-description">
+        <h3>Boosted Internship.</h3>
+        <p>Opportunity to acquire hands-on experience with real information systems and softwares.</p>
+        <hr class="event_line">
+        </div>
+        <div class="event_date">
+        <div class="event-date-wrap">
+        <p>10</p>
+        <span>Jul.23</span>
+        </div>
+        </div>
+        <div class="date-description">
+        <h3>Ethical Hacking Bootcamp.</h3>
+        <p>To introduce learners to basic hacking and penetration skills and knowledge</p>
+        </div>
+        </div>
+        </div>
+        <div class="row">
+        <div class="col-md-12">
+        <div class="event_date">
+        <div class="event-date-wrap">
+        <p>05</p>
+        <span>Aug.23</span>
+        </div>
+        </div>
+        <div class="date-description">
+        <h3>Database Administration Bootcamp.</h3>
+        <p>Opportunity to explore the different database technologies and servers used in the computing world today</p>
+        <hr class="event_line">
+        </div>
+        <div class="event_date">
+        <div class="event-date-wrap">
+        <p>06</p>
+        <span>Sep.23</span>
+        </div>
+        </div>
+        <div class="date-description">
+        <h3>Web development bootcamp.</h3>
+         <p>Basic introduction to front end development using Html, bootstrap, Javascript</p>
+        </div>
+        </div>
+        </div>
+        <div class="row">
+        <div class="col-md-12">
+        <div class="event_date">
+        <div class="event-date-wrap">
+        <p>06</p>
+        <span>Sep.23</span>
+        </div>
+        </div>
+        <div class="date-description">
+        <h3>Web development bootcamp.</h3>
+        <p>Basic introduction to front end development using Html, bootstrap, Javascript</p>
+        <hr class="event_line">
+        </div>
+        <div class="event_date">
+        <div class="event-date-wrap">
+        <p>06</p>
+        <span>Jun.23</span>
+        </div>
+        </div>
+        <div class="date-description">
+        <h3>Database Administration Bootcamp.</h3>
+        <p>Opportunity to explore the different database technologies and servers used in the computing world today</p>
+        </div>
+        </div>
+        </div>
+        </div>
+        </div>
+        </div>
+        </div>
+        </section>
+
+        
 <div id="instafeed"></div>
 
 
@@ -409,7 +369,7 @@ Quality and affordability is what we stand for.</p>
 <div class="row">
 <div class="col-md-3">
 <div class="foot-logo">
-<a href="index.html">
+<a href="index.php">
 <img src="images/academy.png" height="100px" width="100px" class="img-fluid" alt="footer_logo">
 </a>
 <p>2023 © copyright
@@ -476,3 +436,4 @@ Quality and affordability is what we stand for.</p>
 <script defer src="https://static.cloudflareinsights.com/beacon.min.js/vb26e4fa9e5134444860be286fd8771851679335129114" integrity="sha512-M3hN/6cva/SjwrOtyXeUa5IuCT0sedyfT+jK/OV+s+D0RnzrTfwjwJHhd+wYfMm9HJSrZ1IKksOdddLuN6KOzw==" data-cf-beacon='{"rayId":"7adf4a80eccfd739","version":"2023.3.0","r":1,"b":1,"token":"1a2187940c214caa9d3fed19b4904902","si":100}' crossorigin="anonymous"></script>
 </body>
 </html>
+
