@@ -349,7 +349,7 @@
 </ul>
 </div>
 </div>
-<div class="col-md-2">
+<div class="col-md-3">
 <div class="sitemap">
 <h3>Other Links</h3>
 <ul>
@@ -368,9 +368,9 @@
 <p>Email : <a href="mailto:office@boostedtechs.com" class="" >office@boostedtechs.com</a>
 <br> Phone : +256 707084552</p>
 <ul class="footer-social-icons">
-<li><a href="academics.php#"><i class="fa fa-facebook fa-fb" aria-hidden="true"></i></a></li>
-<li><a href="academics.php#"><i class="fa fa-linkedin fa-in" aria-hidden="true"></i></a></li>
-<li><a href="academics.php#"><i class="fa fa-twitter fa-tw" aria-hidden="true"></i></a></li>
+<li><a href="https://www.facebook.com/boostedtechnologies/"><i class="fa fa-facebook fa-fb" aria-hidden="true"></i></a></li>
+<li><a href="https://www.linkedin.com/company/boosted-technologies-ug-ltd/"><i class="fa fa-linkedin fa-in" aria-hidden="true"></i></a></li>
+<li><a href="https://www.twitter.com/boosted_techs/"><i class="fa fa-twitter fa-tw" aria-hidden="true"></i></a></li>
 </ul>
 </div>
 </div>
