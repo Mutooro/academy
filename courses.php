@@ -351,13 +351,13 @@
 </div>
 <div class="col-md-2">
 <div class="sitemap">
-<h3>Navigation</h3>
+<h3>Other Links</h3>
 <ul>
-<li><a href="about.php">About</a></li>
-<li><a href="admission-form.php">Admissions </a></li>
-<li><a href="courses.php">Courses</a></li>
+<li><a href="https://www.boostedtechs.com">Boosted Technologies LTD</a></li>
+<li><a href="https://www.store.boostedtechs.com">Boo store </a></li>
+<li><a href="https://www.boosteds.co">Boosted Payment Services</a></li>
 
-<li><a href="contact.php">Contact</a></li>
+<li><a href="https://www.boostedtechs.com/portfolio">Portfolio</a></li>
 </ul>
 </div>
 </div>
