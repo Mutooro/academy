@@ -72,7 +72,7 @@
 <div class="container">
 <div class="row">
 <div class="col-md-7 admission-form_mr">
-<h2>About the Course</h2>
+<h2>Learn Databases today</h2>
 <p>
     This course covers a variety of database technologies employed by companies in the computing world today
     . Be an expert in database administration today with Boosted Academy.<br>Enroll today and be a modern database admin!
@@ -92,7 +92,7 @@
 
 <hr />
 
-<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSfdPMHsnplsNqnofK9KjmTJoij6cF0NwGb2S_RPjrXFQyBehw/viewform?embedded=true" width="750" height="2774" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
+<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSf-Xr5EjdknqM__uUqRqZxf8Q0KkAw0pSpMHsKmzLLvbJ1R8A/viewform?embedded=true" width="900" height="1000" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
 
 
 
