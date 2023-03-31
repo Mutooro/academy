@@ -158,7 +158,7 @@
     <div class="courses_box-img">
     <div class="courses-link-wrap">
     <!-- <a href="course-detail.html" class="course-link"><span>course Details </span></a> -->
-    <a href="admission-form.php" class="course-link"><span>Join today </span></a>
+    <a href="admissions/database_admission-form.php" class="course-link"><span>Join today </span></a>
     </div>
     
     </div>
@@ -167,7 +167,7 @@
     <div class="courses_icon">
     <img src="images/plus-icon.png" class="img-fluid close-icon" alt="plus-icon">
     </div>
-    <a href="#" class="course-box-content">
+    <a href="admissions/database_admission-form.php" class="course-box-content">
     <h3>Database Admin</h3>
     <p>Redis, MYSQL, Oracle...</p>
      </a>
@@ -180,7 +180,7 @@
     <div class="courses_box-img">
     <div class="courses-link-wrap">
     <!-- <a href="course-detail.html" class="course-link"><span>course Details </span></a> -->
-    <a href="admission-form.php" class="course-link"><span>Join today </span></a>
+    <a href="admissions/web_admit.php" class="course-link"><span>Join today </span></a>
     </div>
     
     </div>
@@ -189,7 +189,7 @@
     <div class="courses_icon">
     <img src="images/plus-icon.png" class="img-fluid close-icon" alt="plus-icon">
     </div>
-    <a href="#" class="course-box-content">
+    <a href="admissions/web_admit.php" class="course-box-content">
     <h3>Web development</h3>
     <p>PHP, Javascript, MYSQL...</p>
     </a>
@@ -211,7 +211,7 @@
     <div class="courses_icon">
     <img src="images/plus-icon.png" class="img-fluid close-icon" alt="plus-icon">
     </div>
-    <a href="course-detail.html" class="course-box-content">
+    <a href="https://boostedtechs.com/apply" class="course-box-content">
     <h3>Internship</h3>
     <p>Obtain skills today...</p>
     </a>
@@ -224,7 +224,7 @@
     <div class="courses_box-img">
     <div class="courses-link-wrap">
     <!-- <a href="course-detail.html" class="course-link"><span>course Details </span></a> -->
-    <a href="admission-form.php" class="course-link"><span>Join today </span></a>
+    <a href="admissions/literacy-admit.php" class="course-link"><span>Join today </span></a>
     </div>
     
     </div>
@@ -233,7 +233,7 @@
     <div class="courses_icon">
     <img src="images/plus-icon.png" class="img-fluid close-icon" alt="plus-icon">
     </div>
-    <a href="#" class="course-box-content">
+    <a href="admissions/literacy-admit.php" class="course-box-content">
     <h3>IT Essentials</h3>
     <p>Microsoft pakages...</p>
     </a>

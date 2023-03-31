@@ -102,7 +102,7 @@ Quality and affordability is what we stand for.</p>
     which has positively impacted my life.</p>
 <div class="testi-img_block">
 <img src="images/muts.png" class="img-fluid" alt="#">
-<p><span>Mutooro Martin</span> Jaslac Digital store</p>
+<p><span>Mutooro Peter</span> Jaslac Digital store</p>
 </div>
 </div>
 <div class="quote">
@@ -118,50 +118,6 @@ Quality and affordability is what we stand for.</p>
 </div>
 </div>
 </section>
-
-
-<!-- <div class="" style="background-image:url('images/admission/group-boosteds.jpeg')"; height="100%">
-<div class="container">
-<div class="row">
-<div class="col-xs-12 col-sm-6 col-md-3 chart_bottom">
-<div class="chart-img">
-<img src="images/chart-icon_1.png" class="img-fluid" alt="chart_icon">
-</div>
-<div class="chart-text">
-<p><span class="counter">39</span> Teachers
-</p>
-</div>
-</div>
-<div class="col-xs-12 col-sm-6 col-md-3 chart_bottom chart_top">
-<div class="chart-img">
-<img src="images/chart-icon_2.png" class="img-fluid" alt="chart_icon">
-</div>
-<div class="chart-text">
-<p><span class="counter">2600</span> Students
-</p>
-</div>
-</div>
-<div class="col-xs-12 col-sm-6 col-md-3 chart_top">
-<div class="chart-img">
-<img src="images/chart-icon_3.png" class="img-fluid" alt="chart_icon">
-</div>
-<div class="chart-text">
-<p><span class="counter">56</span> Courses
-</p>
-</div>
-</div>
-<div class="col-xs-12 col-sm-6 col-md-3">
-<div class="chart-img">
-<img src="images/chart-icon_4.png" class="img-fluid" alt="chart_icon">
-</div>
-<div class="chart-text">
-<p><span class="counter">13</span> Years Exp.</p>
-</div>
-</div>
-</div>
-</div>
-</div> -->
-
 
 <section class="our-teachers">
 <div class="container">
@@ -182,9 +138,9 @@ Quality and affordability is what we stand for.</p>
 <p>Syllabus : <span>Ethical hacking &amp; System Admin</span></p>
 <div class="social-icons">
 <ul>
-<li><a href="about.html#"><i class="fa fa-facebook" aria-hidden="true"></i></a></li>
-<li><a href="about.html#"><i class="fa fa-twitter" aria-hidden="true"></i></a></li>
-<li><a href="about.html#"><i class="fa fa-linkedin" aria-hidden="true"></i></a></li>
+<li><a href="about.php#"><i class="fa fa-facebook" aria-hidden="true"></i></a></li>
+<li><a href="about.php#"><i class="fa fa-twitter" aria-hidden="true"></i></a></li>
+<li><a href="about.php#"><i class="fa fa-linkedin" aria-hidden="true"></i></a></li>
 </ul>
 </div>
 </div>
@@ -201,9 +157,9 @@ Quality and affordability is what we stand for.</p>
 <p> Syllabus : <span>Computer Science, Software design &amp; Graphics</span></p>
 <div class="social-icons">
 <ul>
-<li><a href="about.html#"><i class="fa fa-facebook" aria-hidden="true"></i></a></li>
-<li><a href="about.html#"><i class="fa fa-twitter" aria-hidden="true"></i></a></li>
-<li><a href="about.html#"><i class="fa fa-linkedin" aria-hidden="true"></i></a></li>
+<li><a href="about.php#"><i class="fa fa-facebook" aria-hidden="true"></i></a></li>
+<li><a href="about.php#"><i class="fa fa-twitter" aria-hidden="true"></i></a></li>
+<li><a href="about.php#"><i class="fa fa-linkedin" aria-hidden="true"></i></a></li>
 </ul>
 </div>
 </div>
@@ -220,9 +176,9 @@ Quality and affordability is what we stand for.</p>
 <p> Syllabus : <span>Computer Literacy &amp; Graphics</span></p>
 <div class="social-icons">
 <ul>
-<li><a href="about.html#"><i class="fa fa-facebook" aria-hidden="true"></i></a></li>
-<li><a href="about.html#"><i class="fa fa-twitter" aria-hidden="true"></i></a></li>
-<li><a href="about.html#"><i class="fa fa-linkedin" aria-hidden="true"></i></a></li>
+<li><a href="about.php#"><i class="fa fa-facebook" aria-hidden="true"></i></a></li>
+<li><a href="about.php#"><i class="fa fa-twitter" aria-hidden="true"></i></a></li>
+<li><a href="about.php#"><i class="fa fa-linkedin" aria-hidden="true"></i></a></li>
 </ul>
 </div>
 </div>
@@ -238,9 +194,9 @@ Quality and affordability is what we stand for.</p>
 <p> Syllabus : <span> Computer Engineering &amp; Computer Literacy</span></p>
 <div class="social-icons">
 <ul>
-<li><a href="about.html#"><i class="fa fa-facebook" aria-hidden="true"></i></a></li>
-<li><a href="about.html#"><i class="fa fa-twitter" aria-hidden="true"></i></a></li>
-<li><a href="about.html#"><i class="fa fa-linkedin" aria-hidden="true"></i></a></li>
+<li><a href="about.php#"><i class="fa fa-facebook" aria-hidden="true"></i></a></li>
+<li><a href="about.php#"><i class="fa fa-twitter" aria-hidden="true"></i></a></li>
+<li><a href="about.php#"><i class="fa fa-linkedin" aria-hidden="true"></i></a></li>
 </ul>
 </div>
  </div>

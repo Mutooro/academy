@@ -81,7 +81,7 @@
 <br>
 <div class="row">
 <div class="col-md-6">
-<a href="courses.php#" class="course_box">
+<a href="admissions/database_admission-form.php" class="course_box">
 <img src="images/admission/dbms.jpg" class="img-fluid" alt="#">
 <div class="couse-desc-wrap">
 <h4>Database Administration </h4>
@@ -101,7 +101,7 @@
 <li>
 <p>Duration</p><span>4 months</span></li>
 <li>
-<p>Fee</p><span>Ugshs 400,000</span></li>
+
 <li>
 <p>Timing</p><span>Day and Afternoon</span></li>
 </ul>
@@ -129,7 +129,7 @@
 <li>
 <p>Duration</p><span>6 months</span></li>
 <li>
-<p>Fee</p><span>Ugshs 500,000</span></li>
+
 <li>
 <p>Timing</p><span>Day and Afternoon</span></li>
 </ul>
@@ -137,7 +137,7 @@
 </a>
 </div>
 <div class="col-md-6">
-<a href="courses.php#" class="course_box">
+<a href="admissions/graphics_admit.php" class="course_box">
 <img src="images/admission/boosted.jpg" class="img-fluid" alt="#">
 <div class="couse-desc-wrap">
 <h4>Graphics Design</h4>
@@ -157,7 +157,7 @@
 <li>
 <p>Duration</p><span>6 months</span></li>
 <li>
-<p>Fee</p><span>Ugsh 600,000</span></li>
+
 <li>
 <p>Timing</p><span>Day and Afternoon</span></li>
 </ul>
@@ -165,7 +165,7 @@
 </a>
 </div>
 <div class="col-md-6">
-<a href="courses.php#" class="course_box">
+<a href="https://www.boostedtechs.com/apply" class="course_box">
 <img src="images/admission/group-boosteds.jpeg" class="img-fluid" alt="#">
 <div class="couse-desc-wrap">
 <h4>Internship training</h4>
@@ -185,7 +185,7 @@
 <li>
 <p>Duration</p><span>2 - 6 months</span></li>
 <li>
-<p>Fee</p><span>Ugshs 150,000</span></li>
+
 <li>
 <p>Timing</p><span>Day and Afternoon</span></li>
 </ul>
@@ -193,7 +193,7 @@
 </a>
 </div>
 <div class="col-md-6">
-<a href="courses.php#" class="course_box">
+<a href="admissions/software_admission-form.php" class="course_box">
 <img src="images/admission/software.jpg" class="img-fluid" alt="#">
 <div class="couse-desc-wrap">
 <h4>Software Engineering</h4>
@@ -213,7 +213,7 @@
 <li>
 <p>Duration</p><span>3 - 6 months</span></li>
 <li>
-<p>Fee</p><span>Ugsh 600,000</span></li>
+
 <li>
 <p>Timing</p><span>Day and Afternoon</span></li>
  </ul>
@@ -221,7 +221,7 @@
 </a>
 </div>
 <div class="col-md-6">
-<a href="courses.php#" class="course_box">
+<a href="admissions/literacy-admit.php" class="course_box">
 <img src="images/admission/literacy.jpg" class="img-fluid" alt="#">
 <div class="couse-desc-wrap">
 <h4>Foundamentals of computer applications</h4>
@@ -241,7 +241,7 @@
 <li>
 <p>Duration</p><span>2 months</span></li>
 <li>
-<p>Fee</p><span>Ugsh 300,000</span></li>
+
 <li>
 <p>Timing</p><span>Day and Afternoon</span></li>
 </ul>
@@ -249,7 +249,7 @@
 </a>
 </div>
 <div class="col-md-6">
-<a href="courses.php#" class="course_box">
+<a href="admissions/web_admit.php" class="course_box">
 <img src="images/admission/html.jpg" class="img-fluid" alt="#">
 <div class="couse-desc-wrap">
 <h4>Web design</h4>
@@ -269,7 +269,7 @@
 <li>
 <p>Duration</p><span>4 months</span></li>
 <li>
-<p>Fee</p><span>Ugshs 500,000</span></li>
+
 <li>
 <p>Timing</p><span>Day and Afternoon</span></li>
 </ul>
@@ -277,7 +277,7 @@
 </a>
 </div>
 <div class="col-md-6">
-<a href="courses.php#" class="course_box">
+<a href="admissions/learn-cyber.php" class="course_box">
 <img src="images/admission/software.jpg" class="img-fluid" alt="#">
 <div class="couse-desc-wrap">
 <h4>Cyber secruity &amp; Ethical Hacking</h4>
@@ -297,7 +297,7 @@
 <li>
 <p>Duration</p><span>6 months</span></li>
 <li>
-<p>Fee</p><span>Ugsh 600,000</span></li>
+
 <li>
 <p>Timing</p><span>Day and Afternoon</span></li>
 </ul>
