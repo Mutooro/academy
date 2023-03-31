@@ -108,34 +108,7 @@
 </div>
 </a>
 </div>
-<div class="col-md-6">
-<a href="courses,php#" class="course_box">
-<img src="images/admission/html.jpg" class="img-fluid" alt="#">
-<div class="couse-desc-wrap">
-<h4>System Design and Analysis</h4>
-<div class="star-rating">
-<i class="fa fa-star" aria-hidden="true"></i>
-<i class="fa fa-star" aria-hidden="true"></i>
-<i class="fa fa-star" aria-hidden="true"></i>
-<i class="fa fa-star" aria-hidden="true"></i>
-<i class="fa fa-star-o" aria-hidden="true"></i>
-</div>
 
-<p>Covers the basic and essentials of system Analysis &amp; fundamentals of system design.</p>
-</div>
-
-<div class="course_duration">
-<ul>
-<li>
-<p>Duration</p><span>6 months</span></li>
-<li>
-
-<li>
-<p>Timing</p><span>Day and Afternoon</span></li>
-</ul>
-</div>
-</a>
-</div>
 <div class="col-md-6">
 <a href="admissions/graphics_admit.php" class="course_box">
 <img src="images/admission/boosted.jpg" class="img-fluid" alt="#">
@@ -248,6 +221,209 @@
 </div>
 </a>
 </div>
+
+<div class="col-md-6">
+<a href="admissions/books.php" class="course_box">
+<img src="images/admission/literacy.jpg" class="img-fluid" alt="#">
+<div class="couse-desc-wrap">
+<h4>Quick Books</h4>
+<div class="star-rating">
+<i class="fa fa-star" aria-hidden="true"></i>
+<i class="fa fa-star" aria-hidden="true"></i>
+<i class="fa fa-star" aria-hidden="true"></i>
+<i class="fa fa-star" aria-hidden="true"></i>
+<i class="fa fa-star-o" aria-hidden="true"></i>
+</div>
+
+<p>Be computer literate today and explore the best opportunities in the computing world today.</p>
+</div>
+
+<div class="course_duration">
+<ul>
+<li>
+<p>Duration</p><span>2 months</span></li>
+<li>
+
+<li>
+<p>Timing</p><span>Day and Afternoon</span></li>
+</ul>
+</div>
+</a>
+</div>
+
+<div class="col-md-6">
+<a href="admissions/hadware.php" class="course_box">
+<img src="images/admission/literacy.jpg" class="img-fluid" alt="#">
+<div class="couse-desc-wrap">
+<h4>Computer Hardware Engineering</h4>
+<div class="star-rating">
+<i class="fa fa-star" aria-hidden="true"></i>
+<i class="fa fa-star" aria-hidden="true"></i>
+<i class="fa fa-star" aria-hidden="true"></i>
+<i class="fa fa-star" aria-hidden="true"></i>
+<i class="fa fa-star-o" aria-hidden="true"></i>
+</div>
+
+<p>Be computer literate today and explore the best opportunities in the computing world today.</p>
+</div>
+
+<div class="course_duration">
+<ul>
+<li>
+<p>Duration</p><span>6 months</span></li>
+<li>
+
+<li>
+<p>Timing</p><span>Day and Afternoon</span></li>
+</ul>
+</div>
+</a>
+</div>
+
+<div class="col-md-6">
+<a href="admissions/web_develop.php" class="course_box">
+<img src="images/admission/literacy.jpg" class="img-fluid" alt="#">
+<div class="couse-desc-wrap">
+<h4>Web development</h4>
+<div class="star-rating">
+<i class="fa fa-star" aria-hidden="true"></i>
+<i class="fa fa-star" aria-hidden="true"></i>
+<i class="fa fa-star" aria-hidden="true"></i>
+<i class="fa fa-star" aria-hidden="true"></i>
+<i class="fa fa-star-o" aria-hidden="true"></i>
+</div>
+
+<p>Be computer literate today and explore the best opportunities in the computing world today.</p>
+</div>
+
+<div class="course_duration">
+<ul>
+<li>
+<p>Duration</p><span>4 months</span></li>
+<li>
+
+<li>
+<p>Timing</p><span>Day and Afternoon</span></li>
+</ul>
+</div>
+</a>
+</div>
+
+<div class="col-md-6">
+<a href="admissions/forex_trade.php" class="course_box">
+<img src="images/admission/literacy.jpg" class="img-fluid" alt="#">
+<div class="couse-desc-wrap">
+<h4>Forex Trading</h4>
+<div class="star-rating">
+<i class="fa fa-star" aria-hidden="true"></i>
+<i class="fa fa-star" aria-hidden="true"></i>
+<i class="fa fa-star" aria-hidden="true"></i>
+<i class="fa fa-star" aria-hidden="true"></i>
+<i class="fa fa-star-o" aria-hidden="true"></i>
+</div>
+
+<p>Be computer literate today and explore the best opportunities in the computing world today.</p>
+</div>
+
+<div class="course_duration">
+<ul>
+<li>
+<p>Duration</p><span>2 months</span></li>
+<li>
+
+<li>
+<p>Timing</p><span>Day and Afternoon</span></li>
+</ul>
+</div>
+</a>
+</div>
+<div class="col-md-6">
+<a href="admissions/wordpress.php" class="course_box">
+<img src="images/admission/literacy.jpg" class="img-fluid" alt="#">
+<div class="couse-desc-wrap">
+<h4>Wordpress</h4>
+<div class="star-rating">
+<i class="fa fa-star" aria-hidden="true"></i>
+<i class="fa fa-star" aria-hidden="true"></i>
+<i class="fa fa-star" aria-hidden="true"></i>
+<i class="fa fa-star" aria-hidden="true"></i>
+<i class="fa fa-star-o" aria-hidden="true"></i>
+</div>
+
+<p>Be computer literate today and explore the best opportunities in the computing world today.</p>
+</div>
+
+<div class="course_duration">
+<ul>
+<li>
+<p>Duration</p><span>2 months</span></li>
+<li>
+
+<li>
+<p>Timing</p><span>Day and Afternoon</span></li>
+</ul>
+</div>
+</a>
+</div>
+
+<div class="col-md-6">
+<a href="admissions/digital_market.php" class="course_box">
+<img src="images/admission/literacy.jpg" class="img-fluid" alt="#">
+<div class="couse-desc-wrap">
+<h4>Digital Marketing</h4>
+<div class="star-rating">
+<i class="fa fa-star" aria-hidden="true"></i>
+<i class="fa fa-star" aria-hidden="true"></i>
+<i class="fa fa-star" aria-hidden="true"></i>
+<i class="fa fa-star" aria-hidden="true"></i>
+<i class="fa fa-star-o" aria-hidden="true"></i>
+</div>
+
+<p>Be computer literate today and explore the best opportunities in the computing world today.</p>
+</div>
+
+<div class="course_duration">
+<ul>
+<li>
+<p>Duration</p><span>4 months</span></li>
+<li>
+
+<li>
+<p>Timing</p><span>Day and Afternoon</span></li>
+</ul>
+</div>
+</a>
+</div>
+
+<div class="col-md-6">
+<a href="admissions/video_edit.php" class="course_box">
+<img src="images/admission/literacy.jpg" class="img-fluid" alt="#">
+<div class="couse-desc-wrap">
+<h4>Video Editing</h4>
+<div class="star-rating">
+<i class="fa fa-star" aria-hidden="true"></i>
+<i class="fa fa-star" aria-hidden="true"></i>
+<i class="fa fa-star" aria-hidden="true"></i>
+<i class="fa fa-star" aria-hidden="true"></i>
+<i class="fa fa-star-o" aria-hidden="true"></i>
+</div>
+
+<p>Be computer literate today and explore the best opportunities in the computing world today.</p>
+</div>
+
+<div class="course_duration">
+<ul>
+<li>
+<p>Duration</p><span>2 months</span></li>
+<li>
+
+<li>
+<p>Timing</p><span>Day and Afternoon</span></li>
+</ul>
+</div>
+</a>
+</div>
+
 <div class="col-md-6">
 <a href="admissions/web_admit.php" class="course_box">
 <img src="images/admission/html.jpg" class="img-fluid" alt="#">
