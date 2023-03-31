@@ -166,7 +166,7 @@
 <div class="row">
 <div class="col-md-3">
 <div class="foot-logo">
-<a href="index.html">
+<a href="index.php">
 <img src="images/academy.png" width="100px" height="100px" class="img-fluid" alt="footer_logo">
 </a>
 <p>2016 © copyright
