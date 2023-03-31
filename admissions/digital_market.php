@@ -74,17 +74,17 @@
 <div class="col-md-7 admission-form_mr">
 <h2>About the Course</h2>
 <p>
-    Code the web with us! Explore the differernt technologies available to make the web more interactive to meet the changing demands in the market.
-    Learn both frontend and Backend with Boosted Academy <br>Enroll today and be a modern web developer!
+Take the first step towards becoming a digital marketing professional with our  Digital Marketing Course<br>
+Join the course today on Boosted Academy.
 </p>
 </div>
 <div class="col-md-5 admission-form_mr">
-<ul class="admission-form_listed">
+<!-- <ul class="admission-form_listed">
 <li>HTML</li>
 <li>MYSQL.</li>
 <li>JavaScript.</li>
 <li>PHP</li>
-</ul>
+</ul> -->
 </div>
 </div>
 </div>
