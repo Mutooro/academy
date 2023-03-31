@@ -264,7 +264,7 @@
 <i class="fa fa-star-o" aria-hidden="true"></i>
 </div>
 
-<p>Be computer literate today and explore the best opportunities in the computing world today.</p>
+<p>Be a hardware engineer today and explore the best opportunities in the computing world today.</p>
 </div>
 
 <div class="course_duration">
@@ -293,7 +293,7 @@
 <i class="fa fa-star-o" aria-hidden="true"></i>
 </div>
 
-<p>Be computer literate today and explore the best opportunities in the computing world today.</p>
+<p>Be a web developer today and explore the best opportunities in the computing world today.</p>
 </div>
 
 <div class="course_duration">
@@ -322,7 +322,7 @@
 <i class="fa fa-star-o" aria-hidden="true"></i>
 </div>
 
-<p>Be computer literate today and explore the best opportunities in the computing world today.</p>
+<p>Learn forex today and explore the best opportunities in the computing world today.</p>
 </div>
 
 <div class="course_duration">
@@ -350,7 +350,7 @@
 <i class="fa fa-star-o" aria-hidden="true"></i>
 </div>
 
-<p>Be computer literate today and explore the best opportunities in the computing world today.</p>
+<p>Learn wordpress today and explore the best opportunities in the computing world today.</p>
 </div>
 
 <div class="course_duration">
@@ -379,7 +379,7 @@
 <i class="fa fa-star-o" aria-hidden="true"></i>
 </div>
 
-<p>Be computer literate today and explore the best opportunities in the computing world today.</p>
+<p>Learn digital Marketing today and explore the best opportunities in the computing world today.</p>
 </div>
 
 <div class="course_duration">
@@ -408,7 +408,7 @@
 <i class="fa fa-star-o" aria-hidden="true"></i>
 </div>
 
-<p>Be computer literate today and explore the best opportunities in the computing world today.</p>
+<p>Learn video editing today and explore the best opportunities in the entertainment world today.</p>
 </div>
 
 <div class="course_duration">
