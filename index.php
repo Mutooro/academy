@@ -259,7 +259,7 @@
         <img src="images/admission/group-boosteds.jpeg" class="img-fluid" alt="event-img">
         <div class="event-img_title">
         <h3>Internship Training</h3>
-        <p>The June- August internship placement is ongoing. Register today to be part.</p>
+        <p>The May - September internship placement is ongoing. Register today to be part.</p>
         </div>
         </div>
         </div>
