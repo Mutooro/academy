@@ -404,7 +404,7 @@
 <div class="address">
 <h3>Contact us</h3>
 <p><span>Address: </span> Bwaise - Kawempe. P.O Box 36904 </p>
-<p>Email : <a href="mailto:office@boostedtechs.com" class="">office@boostedtechs.com</a>
+<p>Email : <a href="mailto:office@boostedtechs.com" class="">internship@boostedtechs.com</a>
 <br> Phone : +256 707064552</p>
 <ul class="footer-social-icons">
 <li><a href="https://www.facebook.com/boostedtechnologies/"><i class="fa fa-facebook fa-fb" aria-hidden="true"></i></a></li>
